@@ -1,9 +1,0 @@
-0: Explicit
-1: Implicit
-2: General
-3: Partial/half-answer
-4: Dodging
-5: Deflection
-6: Declining to answer
-7: Claims ignorance
-8: Clarification
