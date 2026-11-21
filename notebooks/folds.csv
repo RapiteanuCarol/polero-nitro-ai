@@ -1,0 +1,3279 @@
+datapointID,fold,clarity_label,evasion_label
+1,4,Clear Non-Reply,Clarification
+2,0,Clear Reply,Explicit
+3,4,Ambivalent,Implicit
+6,3,Clear Reply,Explicit
+9,3,Clear Non-Reply,Claims ignorance
+14,2,Clear Non-Reply,Declining to answer
+19,4,Clear Reply,Explicit
+20,3,Clear Reply,Explicit
+21,1,Clear Reply,Explicit
+24,1,Ambivalent,Implicit
+25,4,Ambivalent,General
+26,0,Clear Reply,Explicit
+28,3,Clear Reply,Explicit
+33,4,Clear Reply,Explicit
+35,0,Ambivalent,Partial/half-answer
+36,3,Clear Reply,Explicit
+39,3,Clear Reply,Explicit
+40,2,Ambivalent,General
+41,1,Ambivalent,General
+43,4,Ambivalent,Dodging
+44,1,Ambivalent,Dodging
+46,4,Ambivalent,Deflection
+47,4,Clear Reply,Explicit
+48,3,Clear Reply,Explicit
+50,3,Clear Reply,Explicit
+60,3,Ambivalent,General
+61,0,Clear Reply,Explicit
+64,1,Ambivalent,General
+65,0,Ambivalent,General
+67,2,Clear Reply,Explicit
+68,2,Clear Reply,Explicit
+70,3,Ambivalent,General
+71,2,Ambivalent,General
+73,4,Ambivalent,Implicit
+74,0,Clear Reply,Explicit
+75,1,Ambivalent,General
+77,4,Clear Reply,Explicit
+80,4,Clear Reply,Explicit
+81,2,Ambivalent,General
+82,3,Clear Reply,Explicit
+86,0,Clear Reply,Explicit
+87,3,Ambivalent,General
+88,0,Clear Non-Reply,Claims ignorance
+90,2,Clear Reply,Explicit
+95,2,Clear Reply,Explicit
+97,1,Ambivalent,Dodging
+99,1,Ambivalent,Implicit
+103,3,Clear Reply,Explicit
+104,2,Ambivalent,General
+105,3,Ambivalent,General
+107,0,Ambivalent,Dodging
+108,4,Clear Reply,Explicit
+111,0,Ambivalent,Implicit
+116,1,Clear Reply,Explicit
+118,1,Clear Reply,Explicit
+120,3,Ambivalent,Dodging
+121,1,Ambivalent,Implicit
+122,0,Ambivalent,Dodging
+123,3,Ambivalent,General
+124,4,Clear Reply,Explicit
+128,4,Clear Reply,Explicit
+129,0,Clear Non-Reply,Claims ignorance
+131,4,Clear Reply,Explicit
+135,4,Clear Reply,Explicit
+137,1,Clear Reply,Explicit
+141,3,Ambivalent,Dodging
+142,2,Ambivalent,Dodging
+143,0,Clear Reply,Explicit
+145,3,Clear Reply,Explicit
+148,1,Ambivalent,Dodging
+151,0,Ambivalent,Dodging
+152,2,Ambivalent,Partial/half-answer
+153,2,Clear Reply,Explicit
+154,3,Clear Reply,Explicit
+162,2,Ambivalent,Implicit
+164,0,Clear Reply,Explicit
+165,4,Ambivalent,General
+167,0,Clear Reply,Explicit
+168,3,Clear Reply,Explicit
+169,2,Ambivalent,Deflection
+171,1,Clear Reply,Explicit
+173,2,Ambivalent,Dodging
+175,2,Ambivalent,Implicit
+178,0,Ambivalent,Dodging
+180,3,Clear Reply,Explicit
+181,0,Clear Reply,Explicit
+182,0,Ambivalent,Dodging
+184,1,Clear Reply,Explicit
+185,4,Ambivalent,Dodging
+186,3,Ambivalent,General
+188,0,Clear Reply,Explicit
+189,4,Clear Non-Reply,Claims ignorance
+191,3,Clear Reply,Explicit
+195,0,Ambivalent,General
+196,4,Clear Reply,Explicit
+197,4,Clear Reply,Explicit
+199,2,Clear Reply,Explicit
+201,1,Clear Reply,Explicit
+202,3,Ambivalent,General
+203,2,Ambivalent,General
+204,0,Ambivalent,General
+205,0,Clear Reply,Explicit
+207,1,Clear Reply,Explicit
+214,0,Ambivalent,Deflection
+219,0,Ambivalent,General
+220,1,Ambivalent,General
+221,3,Clear Reply,Explicit
+223,1,Clear Reply,Explicit
+225,1,Ambivalent,Dodging
+228,2,Ambivalent,General
+229,3,Clear Reply,Explicit
+231,1,Clear Reply,Explicit
+232,0,Clear Reply,Explicit
+233,3,Clear Reply,Explicit
+235,2,Clear Reply,Explicit
+237,1,Clear Reply,Explicit
+239,3,Clear Reply,Explicit
+240,0,Clear Reply,Explicit
+241,4,Clear Reply,Explicit
+245,2,Clear Reply,Explicit
+246,3,Clear Reply,Explicit
+247,1,Ambivalent,General
+249,4,Clear Reply,Explicit
+250,3,Ambivalent,Dodging
+251,0,Clear Reply,Explicit
+252,4,Ambivalent,Dodging
+253,2,Clear Reply,Explicit
+254,0,Ambivalent,Deflection
+255,4,Ambivalent,Dodging
+257,3,Clear Reply,Explicit
+259,4,Clear Reply,Explicit
+260,2,Ambivalent,General
+261,1,Clear Reply,Explicit
+262,3,Ambivalent,Dodging
+265,3,Clear Reply,Explicit
+268,2,Ambivalent,General
+270,1,Clear Reply,Explicit
+271,0,Clear Reply,Explicit
+272,2,Ambivalent,General
+275,1,Clear Reply,Explicit
+276,1,Clear Reply,Explicit
+277,3,Clear Reply,Explicit
+278,3,Clear Reply,Explicit
+280,0,Clear Reply,Explicit
+281,4,Ambivalent,General
+283,1,Ambivalent,General
+286,3,Ambivalent,Dodging
+287,1,Clear Reply,Explicit
+288,3,Clear Reply,Explicit
+290,0,Clear Reply,Explicit
+291,2,Clear Reply,Explicit
+292,0,Clear Reply,Explicit
+294,1,Clear Reply,Explicit
+297,4,Clear Reply,Explicit
+298,0,Clear Reply,Explicit
+302,4,Ambivalent,Implicit
+303,0,Clear Reply,Explicit
+304,0,Clear Reply,Explicit
+312,3,Clear Reply,Explicit
+315,2,Clear Reply,Explicit
+317,3,Clear Reply,Explicit
+320,2,Ambivalent,General
+323,2,Clear Reply,Explicit
+324,0,Ambivalent,Implicit
+328,1,Clear Reply,Explicit
+329,4,Clear Reply,Explicit
+330,3,Clear Reply,Explicit
+331,3,Ambivalent,General
+333,1,Clear Reply,Explicit
+335,2,Ambivalent,General
+336,3,Ambivalent,General
+337,2,Ambivalent,Implicit
+346,4,Ambivalent,Implicit
+350,3,Clear Reply,Explicit
+352,0,Ambivalent,General
+353,3,Clear Non-Reply,Claims ignorance
+357,1,Clear Reply,Explicit
+358,0,Clear Reply,Explicit
+359,1,Clear Reply,Explicit
+360,4,Clear Reply,Explicit
+361,1,Clear Reply,Explicit
+363,4,Clear Reply,Explicit
+368,1,Clear Reply,Explicit
+369,1,Clear Reply,Explicit
+372,3,Clear Reply,Explicit
+373,2,Clear Reply,Explicit
+375,1,Ambivalent,General
+380,0,Ambivalent,Implicit
+381,4,Clear Reply,Explicit
+387,4,Ambivalent,General
+388,1,Clear Reply,Explicit
+389,1,Clear Reply,Explicit
+392,3,Clear Reply,Explicit
+393,3,Clear Reply,Explicit
+395,0,Clear Reply,Explicit
+396,1,Clear Reply,Explicit
+399,3,Clear Reply,Explicit
+400,1,Clear Non-Reply,Claims ignorance
+402,4,Clear Reply,Explicit
+403,2,Clear Reply,Explicit
+404,2,Clear Reply,Explicit
+406,3,Ambivalent,General
+407,0,Clear Reply,Explicit
+408,1,Clear Reply,Explicit
+410,4,Clear Reply,Explicit
+413,2,Clear Reply,Explicit
+416,2,Ambivalent,Dodging
+417,4,Ambivalent,Partial/half-answer
+420,0,Clear Reply,Explicit
+424,0,Clear Reply,Explicit
+427,2,Clear Reply,Explicit
+429,0,Ambivalent,Dodging
+430,1,Ambivalent,Dodging
+431,2,Ambivalent,Implicit
+432,1,Clear Reply,Explicit
+433,0,Ambivalent,Dodging
+434,1,Clear Reply,Explicit
+435,4,Clear Reply,Explicit
+436,0,Clear Reply,Explicit
+438,4,Ambivalent,Dodging
+439,2,Clear Reply,Explicit
+443,4,Clear Reply,Explicit
+445,3,Clear Reply,Explicit
+448,2,Clear Reply,Explicit
+451,2,Ambivalent,Dodging
+452,0,Ambivalent,Implicit
+453,3,Ambivalent,Dodging
+455,0,Clear Reply,Explicit
+461,2,Ambivalent,Dodging
+463,2,Clear Reply,Explicit
+467,0,Ambivalent,Dodging
+469,4,Clear Reply,Explicit
+473,2,Ambivalent,Implicit
+475,2,Ambivalent,General
+476,2,Clear Reply,Explicit
+477,3,Ambivalent,Deflection
+480,3,Clear Reply,Explicit
+481,0,Clear Reply,Explicit
+482,4,Ambivalent,Dodging
+483,2,Clear Reply,Explicit
+487,0,Ambivalent,General
+490,0,Clear Reply,Explicit
+491,0,Clear Reply,Explicit
+492,4,Clear Reply,Explicit
+495,0,Ambivalent,Deflection
+496,4,Clear Reply,Explicit
+497,2,Ambivalent,Dodging
+499,4,Clear Reply,Explicit
+503,3,Clear Reply,Explicit
+504,0,Ambivalent,Dodging
+505,2,Ambivalent,Deflection
+508,3,Clear Reply,Explicit
+509,4,Clear Reply,Explicit
+510,4,Ambivalent,Dodging
+512,3,Clear Reply,Explicit
+513,0,Ambivalent,General
+515,4,Clear Reply,Explicit
+516,4,Clear Reply,Explicit
+517,4,Clear Reply,Explicit
+520,3,Ambivalent,Dodging
+521,1,Clear Reply,Explicit
+522,2,Clear Reply,Explicit
+523,0,Clear Reply,Explicit
+524,1,Clear Reply,Explicit
+528,3,Clear Reply,Explicit
+529,3,Ambivalent,Dodging
+531,3,Ambivalent,General
+532,2,Clear Reply,Explicit
+533,3,Clear Reply,Explicit
+537,2,Ambivalent,General
+538,4,Ambivalent,Dodging
+539,2,Ambivalent,General
+540,4,Clear Reply,Explicit
+541,0,Clear Reply,Explicit
+544,4,Ambivalent,Dodging
+548,2,Clear Reply,Explicit
+552,1,Clear Non-Reply,Claims ignorance
+553,2,Ambivalent,Dodging
+554,0,Ambivalent,Dodging
+556,4,Clear Reply,Explicit
+560,3,Clear Reply,Explicit
+561,3,Ambivalent,Implicit
+562,2,Clear Reply,Explicit
+563,4,Ambivalent,Dodging
+566,3,Clear Reply,Explicit
+568,3,Clear Reply,Explicit
+570,1,Clear Reply,Explicit
+571,0,Ambivalent,Implicit
+572,3,Clear Reply,Explicit
+573,2,Clear Reply,Explicit
+574,2,Ambivalent,General
+577,4,Ambivalent,General
+578,3,Clear Reply,Explicit
+580,1,Clear Reply,Explicit
+581,4,Ambivalent,Deflection
+582,1,Clear Reply,Explicit
+586,2,Ambivalent,Deflection
+589,0,Clear Reply,Explicit
+590,0,Clear Reply,Explicit
+592,2,Ambivalent,Dodging
+593,1,Ambivalent,Dodging
+595,4,Clear Reply,Explicit
+596,4,Clear Reply,Explicit
+597,0,Clear Reply,Explicit
+598,2,Clear Reply,Explicit
+599,1,Clear Reply,Explicit
+600,3,Clear Reply,Explicit
+604,3,Ambivalent,General
+606,1,Ambivalent,Implicit
+607,0,Clear Reply,Explicit
+609,4,Clear Reply,Explicit
+613,0,Clear Reply,Explicit
+617,2,Clear Reply,Explicit
+621,2,Clear Reply,Explicit
+625,4,Ambivalent,General
+627,1,Ambivalent,Dodging
+629,1,Clear Reply,Explicit
+630,1,Clear Non-Reply,Declining to answer
+631,0,Clear Reply,Explicit
+632,2,Clear Reply,Explicit
+637,3,Ambivalent,Dodging
+638,2,Ambivalent,Deflection
+639,1,Clear Reply,Explicit
+645,2,Clear Reply,Explicit
+648,1,Clear Reply,Explicit
+650,0,Clear Reply,Explicit
+651,3,Clear Reply,Explicit
+653,4,Ambivalent,Dodging
+655,2,Clear Reply,Explicit
+657,4,Clear Reply,Explicit
+658,3,Clear Reply,Explicit
+661,0,Clear Reply,Explicit
+662,4,Clear Reply,Explicit
+663,1,Clear Reply,Explicit
+666,4,Ambivalent,Implicit
+672,0,Clear Non-Reply,Declining to answer
+674,3,Clear Reply,Explicit
+675,3,Ambivalent,General
+676,2,Ambivalent,Implicit
+679,0,Clear Reply,Explicit
+680,2,Clear Non-Reply,Declining to answer
+681,1,Clear Reply,Explicit
+683,0,Clear Reply,Explicit
+684,3,Ambivalent,General
+686,4,Ambivalent,General
+688,0,Clear Reply,Explicit
+689,1,Ambivalent,General
+690,3,Clear Reply,Explicit
+691,3,Clear Reply,Explicit
+692,0,Clear Reply,Explicit
+693,2,Clear Reply,Explicit
+694,1,Clear Reply,Explicit
+696,1,Ambivalent,Deflection
+705,0,Clear Reply,Explicit
+706,2,Ambivalent,Implicit
+707,1,Ambivalent,Implicit
+709,0,Clear Reply,Explicit
+710,0,Clear Reply,Explicit
+713,2,Clear Reply,Explicit
+714,2,Clear Reply,Explicit
+719,3,Clear Reply,Explicit
+720,2,Clear Reply,Explicit
+721,3,Ambivalent,Dodging
+723,1,Clear Reply,Explicit
+724,2,Clear Reply,Explicit
+725,3,Clear Reply,Explicit
+726,1,Clear Reply,Explicit
+736,3,Ambivalent,Dodging
+738,4,Ambivalent,General
+740,2,Clear Reply,Explicit
+743,2,Clear Reply,Explicit
+744,2,Ambivalent,Implicit
+749,2,Ambivalent,Implicit
+750,2,Clear Reply,Explicit
+751,3,Clear Reply,Explicit
+755,3,Clear Reply,Explicit
+756,1,Clear Reply,Explicit
+758,4,Ambivalent,Dodging
+764,1,Clear Reply,Explicit
+765,0,Clear Reply,Explicit
+767,0,Clear Reply,Explicit
+771,4,Clear Reply,Explicit
+774,0,Ambivalent,General
+775,4,Clear Reply,Explicit
+776,0,Clear Reply,Explicit
+777,3,Ambivalent,Implicit
+778,3,Clear Reply,Explicit
+779,2,Ambivalent,Dodging
+781,4,Clear Reply,Explicit
+783,1,Clear Reply,Explicit
+784,4,Ambivalent,Implicit
+785,4,Clear Reply,Explicit
+788,2,Clear Reply,Explicit
+789,0,Ambivalent,Dodging
+791,4,Clear Reply,Explicit
+792,1,Clear Reply,Explicit
+793,2,Clear Reply,Explicit
+803,1,Clear Reply,Explicit
+806,3,Clear Reply,Explicit
+812,0,Clear Reply,Explicit
+813,3,Ambivalent,General
+814,4,Clear Reply,Explicit
+815,3,Clear Reply,Explicit
+816,4,Clear Reply,Explicit
+817,1,Clear Reply,Explicit
+818,4,Clear Non-Reply,Declining to answer
+819,2,Ambivalent,Implicit
+820,0,Ambivalent,General
+821,1,Ambivalent,Dodging
+823,4,Clear Reply,Explicit
+824,4,Clear Reply,Explicit
+826,4,Clear Reply,Explicit
+829,4,Clear Reply,Explicit
+831,0,Clear Non-Reply,Declining to answer
+832,2,Clear Non-Reply,Declining to answer
+834,3,Clear Reply,Explicit
+836,0,Clear Non-Reply,Declining to answer
+841,4,Clear Reply,Explicit
+848,0,Clear Reply,Explicit
+851,1,Ambivalent,Dodging
+852,1,Ambivalent,Implicit
+853,2,Clear Reply,Explicit
+854,1,Ambivalent,Dodging
+855,4,Clear Reply,Explicit
+856,4,Ambivalent,Implicit
+857,0,Clear Reply,Explicit
+858,0,Clear Reply,Explicit
+863,4,Clear Reply,Explicit
+864,1,Clear Non-Reply,Declining to answer
+865,0,Clear Reply,Explicit
+866,4,Clear Reply,Explicit
+867,2,Clear Reply,Explicit
+868,2,Clear Reply,Explicit
+869,0,Ambivalent,General
+870,0,Ambivalent,Dodging
+871,2,Clear Non-Reply,Declining to answer
+873,3,Clear Reply,Explicit
+875,0,Ambivalent,General
+878,2,Clear Reply,Explicit
+881,1,Ambivalent,General
+882,0,Ambivalent,Implicit
+883,1,Clear Reply,Explicit
+885,2,Clear Non-Reply,Declining to answer
+890,1,Ambivalent,Dodging
+891,2,Clear Reply,Explicit
+893,3,Clear Reply,Explicit
+895,4,Clear Reply,Explicit
+899,0,Clear Reply,Explicit
+900,1,Clear Reply,Explicit
+901,1,Clear Non-Reply,Clarification
+902,1,Ambivalent,Dodging
+903,1,Ambivalent,General
+904,0,Ambivalent,Dodging
+906,3,Clear Reply,Explicit
+908,2,Ambivalent,General
+910,1,Clear Reply,Explicit
+912,1,Clear Reply,Explicit
+913,2,Clear Reply,Explicit
+914,3,Ambivalent,General
+917,3,Ambivalent,General
+918,4,Clear Non-Reply,Claims ignorance
+921,0,Ambivalent,General
+922,0,Clear Non-Reply,Claims ignorance
+923,4,Ambivalent,Dodging
+925,4,Ambivalent,Dodging
+926,4,Ambivalent,Dodging
+927,4,Ambivalent,Dodging
+928,2,Ambivalent,Dodging
+934,1,Clear Reply,Explicit
+935,1,Ambivalent,Dodging
+936,3,Clear Reply,Explicit
+937,3,Clear Reply,Explicit
+940,1,Clear Reply,Explicit
+942,2,Ambivalent,General
+943,1,Ambivalent,Dodging
+945,2,Clear Reply,Explicit
+951,4,Clear Reply,Explicit
+952,2,Ambivalent,General
+955,0,Clear Reply,Explicit
+957,0,Clear Reply,Explicit
+958,1,Clear Reply,Explicit
+959,1,Clear Reply,Explicit
+960,3,Clear Non-Reply,Clarification
+961,2,Ambivalent,Dodging
+962,2,Clear Reply,Explicit
+963,3,Clear Reply,Explicit
+967,1,Clear Reply,Explicit
+969,0,Clear Reply,Explicit
+970,0,Clear Reply,Explicit
+971,3,Clear Reply,Explicit
+972,2,Clear Reply,Explicit
+973,4,Clear Reply,Explicit
+975,3,Clear Reply,Explicit
+977,0,Clear Reply,Explicit
+978,4,Clear Reply,Explicit
+979,2,Ambivalent,Deflection
+980,4,Ambivalent,Implicit
+982,0,Ambivalent,General
+990,0,Clear Reply,Explicit
+991,3,Clear Reply,Explicit
+992,3,Ambivalent,Implicit
+993,1,Clear Reply,Explicit
+994,2,Clear Reply,Explicit
+995,1,Clear Reply,Explicit
+998,3,Clear Reply,Explicit
+999,3,Clear Reply,Explicit
+1000,1,Clear Reply,Explicit
+1001,2,Ambivalent,Implicit
+1002,4,Clear Reply,Explicit
+1004,0,Ambivalent,General
+1005,4,Ambivalent,Dodging
+1008,1,Clear Reply,Explicit
+1015,1,Clear Reply,Explicit
+1016,0,Clear Reply,Explicit
+1018,3,Ambivalent,Partial/half-answer
+1019,2,Clear Reply,Explicit
+1021,3,Clear Reply,Explicit
+1024,4,Clear Reply,Explicit
+1025,4,Clear Reply,Explicit
+1026,4,Clear Reply,Explicit
+1027,1,Clear Reply,Explicit
+1028,1,Clear Reply,Explicit
+1030,1,Clear Reply,Explicit
+1031,3,Ambivalent,General
+1032,0,Ambivalent,Dodging
+1033,3,Clear Reply,Explicit
+1036,2,Clear Reply,Explicit
+1038,0,Clear Reply,Explicit
+1040,2,Clear Reply,Explicit
+1042,0,Clear Reply,Explicit
+1043,1,Clear Reply,Explicit
+1045,4,Clear Reply,Explicit
+1046,1,Ambivalent,Dodging
+1050,2,Clear Reply,Explicit
+1051,2,Clear Reply,Explicit
+1054,2,Clear Reply,Explicit
+1057,3,Clear Reply,Explicit
+1058,1,Clear Reply,Explicit
+1059,3,Clear Reply,Explicit
+1060,0,Clear Reply,Explicit
+1066,3,Clear Reply,Explicit
+1067,0,Clear Reply,Explicit
+1069,0,Clear Reply,Explicit
+1070,1,Clear Reply,Explicit
+1073,0,Clear Reply,Explicit
+1074,2,Clear Reply,Explicit
+1080,0,Clear Reply,Explicit
+1081,4,Ambivalent,General
+1090,2,Ambivalent,Dodging
+1091,4,Clear Reply,Explicit
+1092,1,Ambivalent,Implicit
+1095,2,Clear Reply,Explicit
+1096,4,Ambivalent,Dodging
+1099,1,Ambivalent,Deflection
+1101,4,Clear Reply,Explicit
+1103,3,Clear Reply,Explicit
+1104,2,Clear Reply,Explicit
+1105,3,Clear Reply,Explicit
+1106,2,Ambivalent,General
+1107,1,Clear Reply,Explicit
+1108,1,Clear Reply,Explicit
+1110,1,Clear Reply,Explicit
+1114,3,Clear Reply,Explicit
+1117,4,Clear Non-Reply,Clarification
+1121,0,Clear Reply,Explicit
+1122,4,Ambivalent,Implicit
+1124,4,Clear Reply,Explicit
+1127,1,Clear Reply,Explicit
+1128,0,Clear Reply,Explicit
+1129,3,Clear Reply,Explicit
+1130,1,Clear Reply,Explicit
+1131,4,Clear Reply,Explicit
+1134,4,Clear Reply,Explicit
+1138,2,Clear Reply,Explicit
+1139,0,Clear Reply,Explicit
+1141,2,Clear Reply,Explicit
+1142,3,Clear Reply,Explicit
+1146,4,Clear Reply,Explicit
+1147,0,Clear Reply,Explicit
+1148,3,Clear Reply,Explicit
+1149,3,Clear Reply,Explicit
+1150,4,Clear Reply,Explicit
+1152,3,Ambivalent,Implicit
+1154,2,Clear Reply,Explicit
+1156,3,Ambivalent,Implicit
+1157,4,Ambivalent,Implicit
+1159,0,Clear Reply,Explicit
+1161,0,Clear Reply,Explicit
+1162,4,Ambivalent,General
+1163,2,Clear Reply,Explicit
+1168,4,Ambivalent,Dodging
+1172,0,Clear Reply,Explicit
+1175,4,Clear Non-Reply,Claims ignorance
+1176,3,Ambivalent,Implicit
+1178,1,Ambivalent,General
+1180,4,Ambivalent,Implicit
+1182,3,Ambivalent,Implicit
+1185,3,Clear Reply,Explicit
+1187,1,Clear Reply,Explicit
+1190,1,Clear Reply,Explicit
+1191,1,Clear Reply,Explicit
+1192,4,Clear Non-Reply,Declining to answer
+1198,4,Ambivalent,Deflection
+1199,1,Clear Reply,Explicit
+1204,4,Clear Reply,Explicit
+1205,1,Ambivalent,General
+1207,0,Ambivalent,General
+1208,1,Ambivalent,Implicit
+1210,4,Clear Reply,Explicit
+1211,3,Clear Reply,Explicit
+1213,0,Ambivalent,General
+1215,3,Clear Reply,Explicit
+1216,0,Ambivalent,Dodging
+1217,3,Clear Reply,Explicit
+1222,3,Ambivalent,Dodging
+1223,4,Ambivalent,Dodging
+1224,0,Ambivalent,Implicit
+1225,0,Clear Reply,Explicit
+1226,1,Clear Reply,Explicit
+1227,2,Clear Non-Reply,Clarification
+1229,0,Ambivalent,Implicit
+1230,4,Clear Reply,Explicit
+1231,3,Ambivalent,Implicit
+1232,3,Clear Reply,Explicit
+1236,1,Ambivalent,Dodging
+1242,4,Clear Reply,Explicit
+1243,3,Ambivalent,Dodging
+1244,1,Clear Reply,Explicit
+1250,0,Ambivalent,General
+1254,4,Clear Reply,Explicit
+1255,2,Clear Reply,Explicit
+1257,3,Clear Reply,Explicit
+1258,1,Ambivalent,Dodging
+1265,3,Clear Reply,Explicit
+1269,0,Ambivalent,Partial/half-answer
+1271,2,Ambivalent,Deflection
+1273,2,Ambivalent,General
+1274,4,Ambivalent,Implicit
+1276,3,Ambivalent,Dodging
+1278,1,Clear Reply,Explicit
+1282,4,Ambivalent,Dodging
+1283,3,Clear Reply,Explicit
+1285,4,Clear Reply,Explicit
+1288,3,Clear Reply,Explicit
+1289,2,Ambivalent,Dodging
+1294,2,Clear Reply,Explicit
+1295,0,Clear Non-Reply,Claims ignorance
+1296,4,Clear Reply,Explicit
+1299,0,Clear Reply,Explicit
+1301,0,Clear Reply,Explicit
+1303,0,Clear Reply,Explicit
+1304,4,Clear Reply,Explicit
+1312,4,Clear Reply,Explicit
+1318,0,Clear Reply,Explicit
+1319,0,Ambivalent,Dodging
+1320,4,Clear Reply,Explicit
+1321,2,Clear Reply,Explicit
+1322,4,Clear Reply,Explicit
+1324,4,Clear Reply,Explicit
+1325,4,Clear Reply,Explicit
+1327,3,Clear Reply,Explicit
+1329,3,Clear Reply,Explicit
+1335,2,Clear Reply,Explicit
+1337,1,Clear Reply,Explicit
+1338,0,Ambivalent,Dodging
+1341,1,Ambivalent,General
+1343,1,Ambivalent,Implicit
+1344,1,Clear Non-Reply,Declining to answer
+1345,3,Clear Reply,Explicit
+1349,1,Clear Reply,Explicit
+1350,4,Clear Reply,Explicit
+1351,3,Clear Reply,Explicit
+1352,4,Clear Reply,Explicit
+1354,0,Ambivalent,Deflection
+1355,0,Clear Reply,Explicit
+1356,3,Ambivalent,General
+1357,0,Ambivalent,Dodging
+1358,1,Ambivalent,Dodging
+1361,1,Ambivalent,Partial/half-answer
+1362,1,Clear Reply,Explicit
+1363,3,Ambivalent,General
+1366,1,Clear Reply,Explicit
+1368,2,Ambivalent,General
+1369,1,Clear Reply,Explicit
+1370,4,Ambivalent,General
+1372,2,Ambivalent,Dodging
+1377,3,Ambivalent,Dodging
+1379,0,Ambivalent,General
+1381,4,Clear Reply,Explicit
+1383,0,Clear Reply,Explicit
+1384,4,Clear Reply,Explicit
+1385,4,Clear Reply,Explicit
+1388,1,Ambivalent,General
+1389,0,Ambivalent,General
+1391,3,Clear Reply,Explicit
+1395,3,Clear Reply,Explicit
+1396,2,Clear Reply,Explicit
+1399,3,Ambivalent,Implicit
+1400,2,Ambivalent,Dodging
+1402,2,Ambivalent,Deflection
+1405,3,Ambivalent,Dodging
+1406,1,Clear Reply,Explicit
+1408,1,Clear Reply,Explicit
+1409,0,Clear Reply,Explicit
+1413,0,Clear Reply,Explicit
+1419,2,Ambivalent,Dodging
+1423,0,Clear Reply,Explicit
+1424,4,Clear Reply,Explicit
+1426,2,Clear Reply,Explicit
+1430,2,Clear Reply,Explicit
+1432,4,Ambivalent,General
+1433,3,Clear Reply,Explicit
+1439,4,Clear Reply,Explicit
+1440,3,Clear Reply,Explicit
+1443,3,Clear Reply,Explicit
+1444,0,Ambivalent,General
+1446,1,Clear Reply,Explicit
+1447,3,Clear Reply,Explicit
+1450,2,Clear Reply,Explicit
+1451,0,Clear Reply,Explicit
+1453,3,Clear Reply,Explicit
+1456,1,Ambivalent,Implicit
+1457,3,Ambivalent,Implicit
+1458,3,Clear Reply,Explicit
+1460,2,Clear Reply,Explicit
+1461,3,Ambivalent,General
+1464,3,Ambivalent,Dodging
+1465,4,Clear Reply,Explicit
+1466,3,Ambivalent,Dodging
+1467,1,Clear Reply,Explicit
+1472,3,Ambivalent,General
+1473,2,Clear Reply,Explicit
+1474,3,Clear Reply,Explicit
+1475,2,Clear Reply,Explicit
+1476,3,Clear Reply,Explicit
+1477,3,Ambivalent,General
+1479,2,Clear Reply,Explicit
+1480,1,Clear Reply,Explicit
+1481,2,Clear Reply,Explicit
+1483,0,Clear Reply,Explicit
+1484,2,Ambivalent,General
+1485,0,Clear Reply,Explicit
+1488,1,Clear Reply,Explicit
+1489,1,Ambivalent,General
+1490,1,Clear Reply,Explicit
+1492,4,Clear Reply,Explicit
+1494,4,Clear Reply,Explicit
+1495,3,Clear Reply,Explicit
+1496,0,Clear Reply,Explicit
+1497,0,Clear Reply,Explicit
+1499,0,Clear Reply,Explicit
+1500,3,Ambivalent,Dodging
+1502,1,Ambivalent,Dodging
+1504,3,Clear Reply,Explicit
+1505,0,Clear Reply,Explicit
+1507,0,Clear Reply,Explicit
+1512,2,Ambivalent,Dodging
+1515,1,Clear Reply,Explicit
+1518,2,Clear Reply,Explicit
+1519,0,Clear Reply,Explicit
+1527,0,Ambivalent,General
+1528,2,Clear Reply,Explicit
+1538,2,Ambivalent,General
+1539,0,Clear Reply,Explicit
+1544,0,Ambivalent,Implicit
+1548,1,Ambivalent,Implicit
+1551,3,Clear Reply,Explicit
+1552,2,Clear Reply,Explicit
+1555,2,Clear Reply,Explicit
+1558,2,Ambivalent,Implicit
+1560,3,Ambivalent,Dodging
+1561,1,Clear Reply,Explicit
+1568,2,Clear Reply,Explicit
+1571,1,Clear Reply,Explicit
+1574,2,Clear Reply,Explicit
+1577,3,Clear Reply,Explicit
+1584,0,Clear Reply,Explicit
+1585,1,Clear Reply,Explicit
+1586,2,Clear Reply,Explicit
+1587,3,Ambivalent,Dodging
+1588,4,Clear Reply,Explicit
+1597,2,Clear Reply,Explicit
+1598,3,Ambivalent,Dodging
+1604,1,Ambivalent,General
+1605,1,Ambivalent,Partial/half-answer
+1607,3,Clear Reply,Explicit
+1608,4,Clear Reply,Explicit
+1611,4,Clear Non-Reply,Clarification
+1612,1,Clear Reply,Explicit
+1614,1,Clear Reply,Explicit
+1621,1,Clear Reply,Explicit
+1622,2,Clear Reply,Explicit
+1623,3,Clear Reply,Explicit
+1632,2,Clear Reply,Explicit
+1633,1,Clear Reply,Explicit
+1636,4,Clear Reply,Explicit
+1639,2,Clear Reply,Explicit
+1645,1,Ambivalent,General
+1646,1,Clear Reply,Explicit
+1647,2,Ambivalent,Dodging
+1649,2,Clear Reply,Explicit
+1650,1,Clear Reply,Explicit
+1651,3,Clear Reply,Explicit
+1653,3,Clear Reply,Explicit
+1656,4,Clear Reply,Explicit
+1660,1,Ambivalent,Dodging
+1662,4,Clear Reply,Explicit
+1663,4,Ambivalent,Deflection
+1665,4,Clear Reply,Explicit
+1669,1,Clear Reply,Explicit
+1670,3,Clear Reply,Explicit
+1671,4,Clear Reply,Explicit
+1678,3,Clear Reply,Explicit
+1679,1,Clear Reply,Explicit
+1681,3,Ambivalent,Dodging
+1686,3,Ambivalent,Implicit
+1687,3,Clear Reply,Explicit
+1688,0,Clear Reply,Explicit
+1689,0,Clear Reply,Explicit
+1690,4,Clear Reply,Explicit
+1692,4,Ambivalent,Implicit
+1694,2,Ambivalent,General
+1697,2,Ambivalent,Deflection
+1700,1,Clear Reply,Explicit
+1702,0,Ambivalent,Dodging
+1703,3,Clear Reply,Explicit
+1706,2,Clear Reply,Explicit
+1708,1,Clear Reply,Explicit
+1709,0,Clear Reply,Explicit
+1711,2,Ambivalent,Dodging
+1712,2,Ambivalent,Implicit
+1713,1,Clear Reply,Explicit
+1715,2,Clear Reply,Explicit
+1716,3,Clear Reply,Explicit
+1718,2,Clear Reply,Explicit
+1732,2,Clear Reply,Explicit
+1738,1,Clear Reply,Explicit
+1741,2,Clear Reply,Explicit
+1744,0,Ambivalent,Dodging
+1745,0,Ambivalent,Implicit
+1746,3,Clear Reply,Explicit
+1749,2,Clear Non-Reply,Clarification
+1751,2,Clear Reply,Explicit
+1752,3,Clear Reply,Explicit
+1767,1,Clear Non-Reply,Clarification
+1770,0,Clear Reply,Explicit
+1772,4,Clear Reply,Explicit
+1773,2,Clear Reply,Explicit
+1777,4,Clear Reply,Explicit
+1778,4,Clear Reply,Explicit
+1779,4,Clear Reply,Explicit
+1781,2,Clear Reply,Explicit
+1783,3,Clear Reply,Explicit
+1788,1,Clear Reply,Explicit
+1789,3,Clear Reply,Explicit
+1791,3,Clear Reply,Explicit
+1794,2,Clear Reply,Explicit
+1796,1,Clear Reply,Explicit
+1799,0,Ambivalent,General
+1800,2,Clear Reply,Explicit
+1801,2,Ambivalent,General
+1809,3,Clear Reply,Explicit
+1811,3,Clear Reply,Explicit
+1813,0,Ambivalent,General
+1814,1,Ambivalent,Dodging
+1825,4,Clear Reply,Explicit
+1826,3,Ambivalent,Dodging
+1827,1,Clear Reply,Explicit
+1839,4,Clear Reply,Explicit
+1842,0,Clear Reply,Explicit
+1843,4,Clear Reply,Explicit
+1846,0,Clear Reply,Explicit
+1848,2,Clear Reply,Explicit
+1850,0,Clear Reply,Explicit
+1853,1,Clear Reply,Explicit
+1854,4,Clear Reply,Explicit
+1857,3,Ambivalent,Implicit
+1858,3,Clear Reply,Explicit
+1861,0,Clear Reply,Explicit
+1863,4,Clear Reply,Explicit
+1870,4,Ambivalent,Dodging
+1872,4,Clear Reply,Explicit
+1874,4,Ambivalent,Dodging
+1875,0,Clear Reply,Explicit
+1877,4,Clear Reply,Explicit
+1880,4,Clear Reply,Explicit
+1885,1,Clear Reply,Explicit
+1887,4,Ambivalent,General
+1888,1,Ambivalent,General
+1889,3,Clear Reply,Explicit
+1891,1,Clear Reply,Explicit
+1893,2,Clear Reply,Explicit
+1894,4,Clear Reply,Explicit
+1895,4,Clear Reply,Explicit
+1900,3,Clear Reply,Explicit
+1901,4,Ambivalent,Deflection
+1903,3,Clear Reply,Explicit
+1904,2,Clear Reply,Explicit
+1909,2,Ambivalent,General
+1916,4,Ambivalent,Dodging
+1918,3,Ambivalent,General
+1919,1,Ambivalent,Partial/half-answer
+1921,0,Clear Reply,Explicit
+1923,3,Clear Reply,Explicit
+1928,2,Clear Reply,Explicit
+1929,3,Ambivalent,Dodging
+1930,4,Ambivalent,Dodging
+1931,3,Ambivalent,Implicit
+1932,1,Clear Reply,Explicit
+1939,1,Clear Reply,Explicit
+1943,0,Clear Reply,Explicit
+1946,2,Clear Reply,Explicit
+1948,1,Ambivalent,General
+1949,4,Clear Non-Reply,Declining to answer
+1951,2,Ambivalent,General
+1955,0,Ambivalent,Implicit
+1957,3,Clear Reply,Explicit
+1959,1,Clear Reply,Explicit
+1966,4,Clear Reply,Explicit
+1972,2,Ambivalent,General
+1974,4,Ambivalent,General
+1975,2,Ambivalent,Implicit
+1978,3,Ambivalent,Implicit
+1979,0,Clear Reply,Explicit
+1982,4,Clear Reply,Explicit
+1985,1,Ambivalent,General
+1986,0,Ambivalent,Deflection
+1987,0,Clear Reply,Explicit
+1988,4,Clear Reply,Explicit
+1990,1,Clear Reply,Explicit
+1994,4,Ambivalent,Implicit
+1999,1,Clear Reply,Explicit
+2001,2,Clear Reply,Explicit
+2002,3,Clear Reply,Explicit
+2005,1,Ambivalent,General
+2006,1,Clear Reply,Explicit
+2007,4,Ambivalent,Implicit
+2008,1,Ambivalent,Implicit
+2010,3,Ambivalent,Implicit
+2012,0,Ambivalent,Implicit
+2013,1,Clear Reply,Explicit
+2014,4,Clear Reply,Explicit
+2017,4,Clear Non-Reply,Declining to answer
+2020,0,Clear Reply,Explicit
+2021,2,Clear Reply,Explicit
+2027,0,Clear Reply,Explicit
+2028,3,Clear Reply,Explicit
+2029,1,Clear Reply,Explicit
+2033,1,Clear Reply,Explicit
+2034,3,Clear Reply,Explicit
+2035,3,Clear Reply,Explicit
+2036,2,Clear Reply,Explicit
+2038,2,Clear Reply,Explicit
+2040,4,Clear Reply,Explicit
+2042,0,Clear Reply,Explicit
+2043,0,Ambivalent,Deflection
+2044,3,Clear Reply,Explicit
+2046,1,Ambivalent,General
+2047,2,Ambivalent,Partial/half-answer
+2049,3,Ambivalent,General
+2051,3,Clear Reply,Explicit
+2053,3,Clear Reply,Explicit
+2055,2,Clear Reply,Explicit
+2057,2,Clear Reply,Explicit
+2059,0,Clear Reply,Explicit
+2060,2,Clear Reply,Explicit
+2061,3,Clear Reply,Explicit
+2062,0,Clear Reply,Explicit
+2063,4,Clear Reply,Explicit
+2064,4,Clear Reply,Explicit
+2066,1,Clear Reply,Explicit
+2070,3,Ambivalent,Dodging
+2071,0,Clear Reply,Explicit
+2074,4,Clear Reply,Explicit
+2076,3,Clear Non-Reply,Declining to answer
+2079,3,Ambivalent,Dodging
+2080,3,Ambivalent,Dodging
+2085,0,Clear Reply,Explicit
+2087,0,Clear Reply,Explicit
+2088,4,Ambivalent,Dodging
+2091,3,Clear Reply,Explicit
+2093,3,Ambivalent,General
+2096,4,Clear Reply,Explicit
+2097,2,Clear Reply,Explicit
+2098,0,Ambivalent,Deflection
+2099,0,Clear Reply,Explicit
+2101,4,Ambivalent,General
+2104,1,Ambivalent,General
+2106,4,Clear Reply,Explicit
+2110,1,Clear Reply,Explicit
+2111,4,Clear Reply,Explicit
+2114,0,Clear Reply,Explicit
+2116,1,Clear Reply,Explicit
+2118,3,Clear Reply,Explicit
+2120,0,Clear Reply,Explicit
+2129,3,Ambivalent,Deflection
+2131,4,Clear Reply,Explicit
+2134,1,Clear Reply,Explicit
+2137,4,Clear Reply,Explicit
+2139,0,Ambivalent,Implicit
+2141,1,Clear Reply,Explicit
+2143,2,Ambivalent,Dodging
+2144,3,Ambivalent,Deflection
+2146,0,Clear Non-Reply,Declining to answer
+2148,0,Clear Reply,Explicit
+2152,2,Clear Reply,Explicit
+2161,2,Clear Reply,Explicit
+2171,0,Clear Reply,Explicit
+2174,2,Clear Reply,Explicit
+2178,0,Clear Reply,Explicit
+2179,0,Ambivalent,General
+2181,4,Ambivalent,Implicit
+2182,0,Ambivalent,Implicit
+2183,1,Clear Reply,Explicit
+2184,3,Clear Reply,Explicit
+2186,3,Clear Reply,Explicit
+2198,4,Clear Reply,Explicit
+2200,0,Clear Reply,Explicit
+2201,4,Ambivalent,Deflection
+2203,1,Clear Reply,Explicit
+2205,2,Ambivalent,Partial/half-answer
+2214,1,Ambivalent,Implicit
+2215,0,Clear Reply,Explicit
+2217,1,Clear Reply,Explicit
+2218,0,Clear Reply,Explicit
+2219,4,Ambivalent,Implicit
+2221,0,Ambivalent,Dodging
+2223,1,Ambivalent,Deflection
+2225,4,Ambivalent,Dodging
+2230,1,Clear Non-Reply,Claims ignorance
+2234,3,Clear Non-Reply,Declining to answer
+2235,3,Ambivalent,General
+2237,4,Ambivalent,General
+2238,0,Clear Reply,Explicit
+2239,1,Clear Reply,Explicit
+2241,0,Clear Reply,Explicit
+2242,2,Clear Non-Reply,Declining to answer
+2243,3,Clear Reply,Explicit
+2248,4,Clear Reply,Explicit
+2249,3,Clear Reply,Explicit
+2250,4,Clear Reply,Explicit
+2252,1,Clear Reply,Explicit
+2259,0,Clear Reply,Explicit
+2267,2,Clear Reply,Explicit
+2269,2,Ambivalent,Dodging
+2270,3,Ambivalent,Dodging
+2271,4,Clear Reply,Explicit
+2272,4,Clear Reply,Explicit
+2274,4,Clear Reply,Explicit
+2275,3,Ambivalent,General
+2278,1,Clear Reply,Explicit
+2279,0,Clear Reply,Explicit
+2281,3,Clear Reply,Explicit
+2282,1,Clear Reply,Explicit
+2284,2,Clear Reply,Explicit
+2285,4,Ambivalent,Implicit
+2286,3,Clear Non-Reply,Claims ignorance
+2287,4,Ambivalent,Implicit
+2289,1,Ambivalent,General
+2296,2,Clear Reply,Explicit
+2299,4,Clear Reply,Explicit
+2301,0,Ambivalent,Deflection
+2302,1,Clear Reply,Explicit
+2306,2,Clear Reply,Explicit
+2308,4,Ambivalent,Partial/half-answer
+2312,0,Clear Reply,Explicit
+2315,4,Clear Reply,Explicit
+2319,4,Clear Reply,Explicit
+2322,3,Clear Reply,Explicit
+2325,0,Ambivalent,General
+2331,0,Clear Reply,Explicit
+2333,2,Ambivalent,Partial/half-answer
+2335,1,Ambivalent,Deflection
+2338,1,Ambivalent,Dodging
+2340,1,Clear Reply,Explicit
+2341,0,Ambivalent,General
+2342,4,Clear Reply,Explicit
+2344,1,Ambivalent,Implicit
+2347,2,Clear Reply,Explicit
+2349,0,Ambivalent,General
+2350,0,Clear Reply,Explicit
+2351,1,Ambivalent,Implicit
+2362,1,Clear Reply,Explicit
+2367,2,Ambivalent,Deflection
+2368,1,Ambivalent,Dodging
+2372,1,Clear Reply,Explicit
+2379,1,Clear Reply,Explicit
+2383,1,Clear Reply,Explicit
+2395,4,Ambivalent,General
+2397,1,Ambivalent,Implicit
+2400,3,Ambivalent,Dodging
+2404,1,Ambivalent,Implicit
+2406,1,Ambivalent,General
+2408,0,Ambivalent,Deflection
+2409,2,Clear Reply,Explicit
+2413,1,Clear Non-Reply,Declining to answer
+2415,0,Clear Reply,Explicit
+2419,2,Clear Reply,Explicit
+2421,3,Ambivalent,General
+2422,1,Clear Reply,Explicit
+2426,1,Ambivalent,General
+2427,3,Clear Reply,Explicit
+2428,2,Ambivalent,Implicit
+2431,3,Clear Reply,Explicit
+2439,2,Ambivalent,General
+2441,2,Clear Reply,Explicit
+2453,4,Clear Reply,Explicit
+2455,0,Clear Reply,Explicit
+2456,1,Ambivalent,Partial/half-answer
+2461,2,Clear Reply,Explicit
+2462,1,Clear Reply,Explicit
+2464,3,Clear Reply,Explicit
+2468,3,Clear Reply,Explicit
+2469,1,Clear Reply,Explicit
+2475,4,Clear Reply,Explicit
+2478,4,Ambivalent,General
+2481,0,Clear Reply,Explicit
+2485,2,Ambivalent,Dodging
+2489,0,Clear Reply,Explicit
+2490,2,Clear Reply,Explicit
+2492,0,Ambivalent,Dodging
+2493,3,Clear Reply,Explicit
+2495,0,Clear Reply,Explicit
+2497,4,Clear Reply,Explicit
+2499,0,Ambivalent,Implicit
+2503,1,Clear Non-Reply,Declining to answer
+2509,1,Clear Reply,Explicit
+2510,1,Clear Reply,Explicit
+2511,3,Clear Reply,Explicit
+2515,0,Clear Reply,Explicit
+2516,3,Clear Reply,Explicit
+2518,0,Clear Reply,Explicit
+2520,3,Clear Reply,Explicit
+2521,4,Ambivalent,General
+2525,3,Clear Reply,Explicit
+2526,2,Clear Reply,Explicit
+2527,4,Clear Reply,Explicit
+2528,4,Clear Reply,Explicit
+2529,2,Clear Reply,Explicit
+2530,0,Ambivalent,Dodging
+2533,2,Ambivalent,General
+2534,1,Clear Reply,Explicit
+2538,4,Ambivalent,Partial/half-answer
+2540,1,Ambivalent,General
+2541,3,Ambivalent,Implicit
+2544,4,Clear Reply,Explicit
+2549,2,Clear Reply,Explicit
+2552,2,Clear Reply,Explicit
+2554,0,Clear Reply,Explicit
+2555,4,Ambivalent,General
+2557,4,Clear Reply,Explicit
+2558,2,Clear Reply,Explicit
+2560,0,Clear Reply,Explicit
+2561,3,Ambivalent,Implicit
+2564,0,Clear Reply,Explicit
+2565,0,Ambivalent,General
+2566,1,Clear Reply,Explicit
+2568,0,Ambivalent,General
+2572,0,Ambivalent,Dodging
+2573,4,Clear Reply,Explicit
+2575,3,Ambivalent,Dodging
+2577,4,Ambivalent,Dodging
+2579,3,Clear Reply,Explicit
+2580,4,Ambivalent,Implicit
+2581,0,Clear Reply,Explicit
+2582,3,Clear Reply,Explicit
+2583,1,Ambivalent,Implicit
+2584,0,Clear Reply,Explicit
+2586,1,Ambivalent,Implicit
+2589,2,Ambivalent,Dodging
+2590,4,Clear Reply,Explicit
+2591,4,Clear Reply,Explicit
+2592,0,Ambivalent,General
+2594,2,Clear Reply,Explicit
+2596,4,Clear Reply,Explicit
+2599,4,Ambivalent,Deflection
+2607,2,Clear Reply,Explicit
+2608,2,Clear Reply,Explicit
+2609,1,Clear Reply,Explicit
+2614,4,Clear Non-Reply,Claims ignorance
+2615,2,Clear Reply,Explicit
+2616,4,Clear Reply,Explicit
+2618,0,Clear Reply,Explicit
+2620,4,Clear Reply,Explicit
+2622,3,Ambivalent,General
+2625,1,Clear Reply,Explicit
+2633,3,Ambivalent,Dodging
+2642,3,Ambivalent,Implicit
+2643,1,Clear Reply,Explicit
+2645,1,Clear Non-Reply,Claims ignorance
+2648,3,Clear Reply,Explicit
+2651,0,Ambivalent,General
+2652,3,Ambivalent,General
+2653,1,Clear Reply,Explicit
+2656,0,Clear Reply,Explicit
+2661,4,Clear Reply,Explicit
+2668,3,Ambivalent,Dodging
+2670,3,Ambivalent,General
+2678,2,Clear Reply,Explicit
+2680,4,Clear Non-Reply,Claims ignorance
+2684,1,Clear Reply,Explicit
+2685,0,Clear Reply,Explicit
+2686,2,Ambivalent,Deflection
+2687,0,Clear Non-Reply,Declining to answer
+2691,2,Ambivalent,Deflection
+2692,0,Ambivalent,General
+2693,4,Clear Reply,Explicit
+2697,3,Ambivalent,Dodging
+2700,2,Clear Reply,Explicit
+2701,0,Ambivalent,General
+2702,0,Clear Reply,Explicit
+2703,3,Ambivalent,Implicit
+2705,1,Clear Reply,Explicit
+2706,0,Ambivalent,Dodging
+2707,2,Clear Reply,Explicit
+2712,1,Clear Reply,Explicit
+2714,2,Ambivalent,Dodging
+2715,3,Ambivalent,Implicit
+2716,2,Clear Reply,Explicit
+2719,4,Clear Non-Reply,Claims ignorance
+2721,1,Clear Reply,Explicit
+2723,3,Ambivalent,General
+2728,2,Clear Reply,Explicit
+2731,4,Clear Reply,Explicit
+2733,3,Clear Reply,Explicit
+2736,1,Clear Reply,Explicit
+2737,4,Clear Reply,Explicit
+2739,0,Clear Reply,Explicit
+2741,1,Clear Reply,Explicit
+2744,3,Ambivalent,Implicit
+2745,0,Ambivalent,General
+2746,1,Clear Reply,Explicit
+2747,4,Clear Reply,Explicit
+2752,4,Clear Reply,Explicit
+2754,2,Ambivalent,Implicit
+2756,0,Ambivalent,Dodging
+2760,0,Ambivalent,General
+2761,1,Ambivalent,General
+2765,2,Clear Reply,Explicit
+2766,2,Ambivalent,Implicit
+2767,4,Clear Reply,Explicit
+2768,2,Ambivalent,General
+2777,2,Clear Reply,Explicit
+2786,4,Ambivalent,Deflection
+2792,2,Clear Reply,Explicit
+2797,4,Clear Reply,Explicit
+2798,2,Clear Reply,Explicit
+2799,3,Ambivalent,General
+2800,1,Clear Reply,Explicit
+2802,0,Clear Reply,Explicit
+2804,4,Ambivalent,General
+2805,3,Ambivalent,General
+2807,2,Ambivalent,Dodging
+2815,3,Clear Reply,Explicit
+2817,4,Ambivalent,Dodging
+2825,3,Ambivalent,Dodging
+2831,3,Clear Reply,Explicit
+2832,1,Clear Reply,Explicit
+2834,1,Ambivalent,General
+2839,1,Clear Reply,Explicit
+2844,3,Clear Reply,Explicit
+2845,0,Ambivalent,Implicit
+2848,4,Clear Reply,Explicit
+2849,1,Clear Reply,Explicit
+2853,0,Clear Reply,Explicit
+2857,0,Ambivalent,Dodging
+2862,2,Clear Reply,Explicit
+2863,3,Ambivalent,Dodging
+2864,1,Ambivalent,General
+2869,4,Clear Reply,Explicit
+2881,0,Clear Reply,Explicit
+2883,0,Clear Reply,Explicit
+2884,0,Ambivalent,Dodging
+2889,4,Clear Reply,Explicit
+2890,4,Clear Reply,Explicit
+2892,0,Clear Reply,Explicit
+2894,4,Clear Reply,Explicit
+2895,2,Clear Reply,Explicit
+2899,2,Clear Reply,Explicit
+2900,4,Clear Reply,Explicit
+2901,3,Clear Reply,Explicit
+2902,0,Clear Reply,Explicit
+2905,2,Ambivalent,Dodging
+2906,2,Clear Reply,Explicit
+2908,1,Clear Non-Reply,Clarification
+2912,0,Ambivalent,Implicit
+2915,1,Ambivalent,General
+2919,0,Clear Reply,Explicit
+2921,2,Clear Reply,Explicit
+2924,3,Ambivalent,Implicit
+2925,4,Clear Reply,Explicit
+2927,3,Clear Reply,Explicit
+2928,4,Ambivalent,Implicit
+2929,3,Ambivalent,General
+2935,2,Clear Reply,Explicit
+2938,2,Ambivalent,Dodging
+2939,0,Clear Reply,Explicit
+2940,4,Ambivalent,General
+2942,2,Ambivalent,Dodging
+2943,1,Clear Reply,Explicit
+2944,3,Clear Reply,Explicit
+2945,4,Clear Reply,Explicit
+2948,2,Ambivalent,Deflection
+2951,2,Clear Reply,Explicit
+2952,4,Clear Reply,Explicit
+2953,4,Clear Reply,Explicit
+2954,3,Clear Reply,Explicit
+2955,1,Ambivalent,Dodging
+2957,1,Clear Reply,Explicit
+2959,1,Clear Reply,Explicit
+2961,4,Ambivalent,Dodging
+2963,0,Clear Reply,Explicit
+2964,2,Clear Reply,Explicit
+2966,4,Ambivalent,General
+2967,3,Ambivalent,Implicit
+2970,2,Ambivalent,General
+2973,0,Ambivalent,General
+2982,4,Clear Reply,Explicit
+2983,3,Clear Reply,Explicit
+2984,2,Ambivalent,Dodging
+2987,0,Ambivalent,Implicit
+2989,2,Clear Reply,Explicit
+2990,2,Clear Reply,Explicit
+2994,2,Clear Non-Reply,Clarification
+2995,2,Clear Reply,Explicit
+2997,4,Ambivalent,General
+2998,0,Ambivalent,Dodging
+2999,4,Clear Reply,Explicit
+3000,2,Clear Reply,Explicit
+3001,2,Ambivalent,General
+3002,4,Clear Reply,Explicit
+3003,4,Clear Reply,Explicit
+3005,0,Clear Reply,Explicit
+3008,4,Ambivalent,Implicit
+3013,0,Ambivalent,Implicit
+3016,2,Clear Reply,Explicit
+3017,1,Ambivalent,Implicit
+3021,0,Clear Non-Reply,Declining to answer
+3023,0,Clear Reply,Explicit
+3024,3,Clear Reply,Explicit
+3025,3,Clear Reply,Explicit
+3026,4,Ambivalent,General
+3030,4,Clear Reply,Explicit
+3033,4,Ambivalent,General
+3035,0,Clear Reply,Explicit
+3036,0,Clear Reply,Explicit
+3037,0,Clear Reply,Explicit
+3042,1,Clear Reply,Explicit
+3043,0,Clear Reply,Explicit
+3047,3,Clear Reply,Explicit
+3053,3,Clear Reply,Explicit
+3064,1,Ambivalent,Dodging
+3066,1,Clear Reply,Explicit
+3070,0,Clear Reply,Explicit
+3074,3,Clear Reply,Explicit
+3079,0,Clear Reply,Explicit
+3080,1,Ambivalent,General
+3083,1,Clear Non-Reply,Clarification
+3085,4,Clear Reply,Explicit
+3086,1,Clear Reply,Explicit
+3097,2,Clear Reply,Explicit
+3100,2,Ambivalent,Deflection
+3106,4,Clear Reply,Explicit
+3107,0,Ambivalent,General
+3108,3,Clear Reply,Explicit
+3113,1,Ambivalent,Dodging
+3114,3,Clear Reply,Explicit
+3117,1,Clear Reply,Explicit
+3120,0,Clear Reply,Explicit
+3122,4,Clear Reply,Explicit
+3126,0,Ambivalent,Dodging
+3129,0,Ambivalent,Implicit
+3130,1,Clear Reply,Explicit
+3133,0,Clear Reply,Explicit
+3134,0,Ambivalent,Dodging
+3144,2,Clear Reply,Explicit
+3149,2,Clear Reply,Explicit
+3154,4,Clear Reply,Explicit
+3156,2,Clear Reply,Explicit
+3157,2,Clear Non-Reply,Declining to answer
+3158,1,Clear Reply,Explicit
+3162,0,Clear Reply,Explicit
+3163,4,Clear Reply,Explicit
+3169,0,Clear Reply,Explicit
+3171,3,Clear Reply,Explicit
+3172,1,Ambivalent,Dodging
+3175,4,Ambivalent,General
+3177,0,Ambivalent,General
+3182,4,Clear Reply,Explicit
+3183,2,Ambivalent,General
+3187,3,Ambivalent,Deflection
+3192,3,Clear Reply,Explicit
+3198,3,Ambivalent,Dodging
+3206,1,Ambivalent,Dodging
+3207,4,Clear Reply,Explicit
+3208,1,Clear Reply,Explicit
+3210,3,Ambivalent,Implicit
+3211,4,Ambivalent,Dodging
+3213,2,Clear Reply,Explicit
+3218,0,Clear Reply,Explicit
+3219,1,Clear Reply,Explicit
+3224,1,Clear Reply,Explicit
+3226,1,Clear Reply,Explicit
+3227,1,Clear Reply,Explicit
+3228,3,Clear Reply,Explicit
+3231,4,Clear Reply,Explicit
+3232,2,Clear Reply,Explicit
+3233,0,Clear Reply,Explicit
+3234,3,Ambivalent,General
+3240,2,Clear Reply,Explicit
+3241,4,Clear Reply,Explicit
+3242,1,Clear Reply,Explicit
+3243,3,Ambivalent,Deflection
+3245,0,Clear Reply,Explicit
+3248,0,Clear Reply,Explicit
+3250,0,Clear Reply,Explicit
+3253,1,Clear Reply,Explicit
+3255,0,Clear Reply,Explicit
+3259,0,Clear Reply,Explicit
+3263,1,Clear Reply,Explicit
+3264,4,Ambivalent,General
+3265,1,Ambivalent,Implicit
+3268,0,Clear Reply,Explicit
+3270,2,Ambivalent,General
+3272,4,Ambivalent,General
+3275,1,Ambivalent,Implicit
+3276,3,Ambivalent,Implicit
+3277,2,Clear Reply,Explicit
+3278,0,Clear Reply,Explicit
+3280,3,Clear Reply,Explicit
+3288,4,Clear Reply,Explicit
+3290,4,Clear Reply,Explicit
+3292,2,Clear Reply,Explicit
+3293,2,Clear Reply,Explicit
+3294,1,Clear Reply,Explicit
+3297,2,Clear Reply,Explicit
+3298,2,Clear Reply,Explicit
+3299,3,Clear Reply,Explicit
+3305,2,Clear Non-Reply,Claims ignorance
+3308,2,Clear Reply,Explicit
+3313,0,Clear Non-Reply,Claims ignorance
+3318,2,Ambivalent,Dodging
+3320,3,Ambivalent,General
+3324,4,Clear Reply,Explicit
+3325,1,Clear Reply,Explicit
+3327,4,Clear Reply,Explicit
+3328,0,Clear Reply,Explicit
+3330,2,Ambivalent,General
+3332,1,Clear Reply,Explicit
+3335,1,Ambivalent,General
+3336,4,Ambivalent,General
+3339,2,Ambivalent,Partial/half-answer
+3341,3,Ambivalent,Dodging
+3350,1,Ambivalent,Dodging
+3351,1,Clear Reply,Explicit
+3352,0,Ambivalent,General
+3353,4,Clear Reply,Explicit
+3354,1,Clear Reply,Explicit
+3362,3,Clear Reply,Explicit
+3369,3,Clear Reply,Explicit
+3370,0,Clear Reply,Explicit
+3372,1,Clear Reply,Explicit
+3373,3,Ambivalent,Dodging
+3377,4,Clear Reply,Explicit
+3380,3,Ambivalent,Deflection
+3381,0,Clear Reply,Explicit
+3384,0,Clear Reply,Explicit
+3392,2,Clear Reply,Explicit
+3393,3,Clear Reply,Explicit
+3394,3,Clear Reply,Explicit
+3398,1,Clear Reply,Explicit
+3399,1,Ambivalent,Implicit
+3400,4,Clear Non-Reply,Claims ignorance
+3402,1,Clear Reply,Explicit
+3403,4,Clear Non-Reply,Clarification
+3407,2,Clear Non-Reply,Declining to answer
+3417,1,Ambivalent,Dodging
+3421,1,Clear Reply,Explicit
+3426,2,Clear Reply,Explicit
+3428,1,Clear Reply,Explicit
+3430,3,Clear Reply,Explicit
+3436,2,Clear Reply,Explicit
+3437,3,Clear Reply,Explicit
+3438,4,Clear Reply,Explicit
+3439,2,Clear Reply,Explicit
+3441,0,Clear Reply,Explicit
+3447,2,Clear Reply,Explicit
+3449,3,Ambivalent,Dodging
+3450,1,Clear Non-Reply,Claims ignorance
+3451,3,Clear Reply,Explicit
+3452,3,Clear Reply,Explicit
+3456,4,Clear Reply,Explicit
+3462,0,Clear Reply,Explicit
+3463,1,Clear Reply,Explicit
+3471,1,Clear Reply,Explicit
+3480,0,Clear Reply,Explicit
+3483,0,Clear Reply,Explicit
+3484,1,Clear Non-Reply,Claims ignorance
+3485,3,Ambivalent,General
+3487,3,Ambivalent,General
+3496,2,Ambivalent,General
+3498,3,Ambivalent,Implicit
+3499,3,Clear Reply,Explicit
+3500,0,Clear Reply,Explicit
+3502,1,Clear Reply,Explicit
+3505,2,Clear Reply,Explicit
+3506,3,Clear Reply,Explicit
+3507,2,Clear Reply,Explicit
+3511,0,Clear Reply,Explicit
+3517,0,Ambivalent,General
+3518,4,Clear Reply,Explicit
+3520,0,Ambivalent,Dodging
+3521,3,Ambivalent,General
+3531,0,Clear Reply,Explicit
+3534,3,Clear Reply,Explicit
+3535,4,Clear Reply,Explicit
+3539,4,Clear Reply,Explicit
+3540,2,Ambivalent,Implicit
+3542,4,Clear Reply,Explicit
+3543,4,Ambivalent,General
+3545,1,Clear Reply,Explicit
+3546,4,Clear Reply,Explicit
+3547,1,Ambivalent,General
+3549,4,Clear Reply,Explicit
+3550,2,Clear Reply,Explicit
+3551,3,Ambivalent,General
+3552,2,Ambivalent,Implicit
+3554,4,Clear Reply,Explicit
+3559,0,Ambivalent,General
+3563,2,Clear Reply,Explicit
+3566,2,Ambivalent,Dodging
+3568,1,Clear Reply,Explicit
+3569,0,Clear Reply,Explicit
+3571,1,Clear Reply,Explicit
+3576,2,Ambivalent,General
+3582,0,Ambivalent,Implicit
+3583,3,Ambivalent,Deflection
+3584,3,Clear Reply,Explicit
+3585,1,Clear Reply,Explicit
+3586,4,Clear Reply,Explicit
+3589,4,Clear Reply,Explicit
+3597,1,Clear Reply,Explicit
+3600,0,Ambivalent,General
+3603,1,Ambivalent,Implicit
+3607,0,Clear Reply,Explicit
+3608,0,Clear Reply,Explicit
+3610,4,Ambivalent,Deflection
+3613,4,Ambivalent,General
+3622,3,Clear Reply,Explicit
+3628,2,Ambivalent,General
+3633,0,Ambivalent,Implicit
+3640,0,Clear Reply,Explicit
+3645,4,Clear Reply,Explicit
+3646,2,Clear Reply,Explicit
+3653,1,Clear Reply,Explicit
+3656,1,Ambivalent,Implicit
+3661,1,Clear Reply,Explicit
+3662,0,Ambivalent,General
+3666,1,Clear Reply,Explicit
+3668,0,Clear Reply,Explicit
+3669,2,Clear Reply,Explicit
+3672,0,Clear Reply,Explicit
+3673,4,Clear Reply,Explicit
+3675,1,Clear Reply,Explicit
+3676,4,Clear Reply,Explicit
+3679,2,Clear Reply,Explicit
+3680,1,Clear Reply,Explicit
+3683,0,Clear Reply,Explicit
+3685,1,Clear Reply,Explicit
+3687,1,Clear Reply,Explicit
+3689,4,Clear Reply,Explicit
+3690,4,Clear Reply,Explicit
+3691,0,Ambivalent,Dodging
+3700,1,Clear Reply,Explicit
+3702,0,Clear Reply,Explicit
+3706,0,Clear Reply,Explicit
+3708,2,Clear Reply,Explicit
+3714,0,Clear Reply,Explicit
+3717,0,Clear Reply,Explicit
+3721,1,Clear Reply,Explicit
+3723,0,Clear Reply,Explicit
+3732,3,Clear Reply,Explicit
+3738,0,Clear Reply,Explicit
+3740,1,Ambivalent,General
+3742,0,Clear Reply,Explicit
+3746,0,Clear Reply,Explicit
+3747,0,Clear Reply,Explicit
+3749,0,Clear Reply,Explicit
+3751,1,Ambivalent,Dodging
+3752,0,Clear Reply,Explicit
+3755,3,Clear Reply,Explicit
+3762,2,Clear Reply,Explicit
+3765,2,Clear Reply,Explicit
+3766,2,Clear Non-Reply,Declining to answer
+3767,0,Clear Reply,Explicit
+3769,2,Clear Non-Reply,Declining to answer
+3776,4,Ambivalent,General
+3782,2,Clear Reply,Explicit
+3790,2,Clear Reply,Explicit
+3791,3,Ambivalent,General
+3792,4,Clear Reply,Explicit
+3797,4,Ambivalent,Dodging
+3802,2,Ambivalent,Dodging
+3805,3,Ambivalent,General
+3815,3,Ambivalent,General
+3817,2,Ambivalent,Deflection
+3818,0,Clear Reply,Explicit
+3820,2,Clear Reply,Explicit
+3824,3,Clear Reply,Explicit
+3827,0,Ambivalent,Dodging
+3829,0,Clear Reply,Explicit
+3832,4,Clear Reply,Explicit
+3833,1,Clear Reply,Explicit
+3834,0,Clear Reply,Explicit
+3835,1,Clear Reply,Explicit
+3836,3,Clear Reply,Explicit
+3838,4,Clear Reply,Explicit
+3840,1,Ambivalent,General
+3841,4,Ambivalent,Implicit
+3843,0,Ambivalent,General
+3844,3,Clear Reply,Explicit
+3846,1,Clear Reply,Explicit
+3848,3,Clear Reply,Explicit
+3849,4,Clear Reply,Explicit
+3850,1,Ambivalent,General
+3852,1,Clear Reply,Explicit
+3853,3,Clear Non-Reply,Declining to answer
+3856,3,Clear Reply,Explicit
+3857,1,Ambivalent,General
+3859,3,Ambivalent,General
+3861,0,Clear Reply,Explicit
+3864,3,Clear Reply,Explicit
+3865,4,Ambivalent,Dodging
+3866,0,Clear Reply,Explicit
+3869,1,Clear Reply,Explicit
+3870,3,Clear Non-Reply,Claims ignorance
+3873,0,Clear Reply,Explicit
+3880,0,Ambivalent,Dodging
+3881,2,Clear Reply,Explicit
+3882,1,Ambivalent,Implicit
+3884,4,Ambivalent,Dodging
+3885,0,Clear Reply,Explicit
+3886,3,Clear Reply,Explicit
+3887,3,Clear Reply,Explicit
+3888,2,Clear Reply,Explicit
+3892,3,Clear Reply,Explicit
+3896,3,Ambivalent,General
+3897,0,Ambivalent,Implicit
+3899,0,Ambivalent,Dodging
+3908,0,Clear Reply,Explicit
+3910,0,Clear Reply,Explicit
+3914,0,Clear Reply,Explicit
+3915,0,Clear Reply,Explicit
+3921,3,Ambivalent,General
+3923,0,Clear Reply,Explicit
+3924,1,Clear Reply,Explicit
+3929,0,Clear Reply,Explicit
+3936,2,Clear Reply,Explicit
+3938,4,Clear Reply,Explicit
+3940,4,Clear Non-Reply,Declining to answer
+3942,0,Ambivalent,Dodging
+3944,1,Ambivalent,Deflection
+3946,0,Clear Reply,Explicit
+3949,0,Ambivalent,Dodging
+3957,0,Clear Reply,Explicit
+3958,1,Ambivalent,General
+3961,2,Ambivalent,Dodging
+3964,2,Clear Reply,Explicit
+3970,1,Ambivalent,Implicit
+3974,0,Ambivalent,Implicit
+3976,2,Clear Reply,Explicit
+3977,0,Clear Reply,Explicit
+3978,2,Ambivalent,Dodging
+3983,3,Ambivalent,Implicit
+3984,0,Clear Reply,Explicit
+3986,3,Clear Reply,Explicit
+3987,1,Clear Reply,Explicit
+3988,4,Clear Reply,Explicit
+3991,4,Ambivalent,Dodging
+3993,3,Ambivalent,General
+3998,2,Clear Reply,Explicit
+3999,0,Clear Reply,Explicit
+4001,2,Ambivalent,Dodging
+4002,1,Ambivalent,Dodging
+4003,0,Clear Reply,Explicit
+4007,1,Clear Reply,Explicit
+4012,2,Clear Reply,Explicit
+4013,3,Ambivalent,Deflection
+4017,3,Clear Non-Reply,Declining to answer
+4018,2,Clear Reply,Explicit
+4023,3,Clear Reply,Explicit
+4026,0,Clear Reply,Explicit
+4037,2,Clear Reply,Explicit
+4038,2,Clear Reply,Explicit
+4041,0,Ambivalent,Dodging
+4043,0,Ambivalent,Partial/half-answer
+4047,4,Clear Reply,Explicit
+4052,3,Clear Non-Reply,Claims ignorance
+4053,1,Ambivalent,Implicit
+4054,0,Clear Reply,Explicit
+4056,1,Clear Reply,Explicit
+4066,0,Clear Reply,Explicit
+4067,2,Ambivalent,Deflection
+4070,4,Clear Reply,Explicit
+4077,1,Ambivalent,General
+4080,4,Clear Reply,Explicit
+4082,3,Ambivalent,Dodging
+4083,2,Clear Reply,Explicit
+4090,4,Clear Reply,Explicit
+4091,4,Clear Reply,Explicit
+4093,2,Ambivalent,Deflection
+4100,4,Clear Reply,Explicit
+4101,2,Clear Reply,Explicit
+4107,1,Ambivalent,General
+4108,2,Clear Reply,Explicit
+4110,1,Clear Reply,Explicit
+4113,1,Ambivalent,Deflection
+4114,0,Clear Reply,Explicit
+4119,0,Ambivalent,Deflection
+4120,3,Clear Reply,Explicit
+4123,4,Ambivalent,Deflection
+4125,1,Ambivalent,General
+4127,0,Clear Reply,Explicit
+4131,3,Clear Reply,Explicit
+4133,0,Clear Reply,Explicit
+4137,4,Clear Reply,Explicit
+4139,3,Ambivalent,Dodging
+4140,3,Ambivalent,General
+4145,1,Clear Reply,Explicit
+4146,0,Clear Reply,Explicit
+4148,3,Clear Reply,Explicit
+4149,0,Clear Reply,Explicit
+4151,4,Ambivalent,Implicit
+4158,0,Ambivalent,Dodging
+4159,4,Ambivalent,Partial/half-answer
+4168,0,Clear Reply,Explicit
+4169,4,Clear Reply,Explicit
+4170,0,Ambivalent,General
+4172,4,Ambivalent,Deflection
+4173,4,Clear Reply,Explicit
+4174,1,Clear Reply,Explicit
+4175,1,Clear Reply,Explicit
+4179,0,Ambivalent,Dodging
+4185,3,Clear Reply,Explicit
+4186,3,Clear Reply,Explicit
+4188,0,Clear Reply,Explicit
+4189,3,Clear Reply,Explicit
+4191,3,Ambivalent,Implicit
+4194,0,Clear Reply,Explicit
+4196,4,Ambivalent,General
+4200,3,Clear Reply,Explicit
+4202,4,Clear Non-Reply,Declining to answer
+4208,2,Ambivalent,Deflection
+4209,1,Clear Reply,Explicit
+4215,3,Clear Reply,Explicit
+4220,2,Clear Reply,Explicit
+4222,2,Clear Reply,Explicit
+4224,3,Clear Reply,Explicit
+4225,4,Clear Reply,Explicit
+4230,0,Clear Non-Reply,Clarification
+4231,4,Clear Reply,Explicit
+4239,1,Ambivalent,General
+4241,4,Clear Reply,Explicit
+4243,1,Clear Reply,Explicit
+4244,0,Clear Non-Reply,Clarification
+4252,4,Clear Reply,Explicit
+4253,4,Clear Reply,Explicit
+4270,0,Clear Reply,Explicit
+4272,1,Clear Reply,Explicit
+4274,2,Clear Non-Reply,Claims ignorance
+4275,1,Ambivalent,Dodging
+4276,0,Ambivalent,Dodging
+4278,3,Clear Reply,Explicit
+4280,2,Clear Reply,Explicit
+4284,0,Clear Reply,Explicit
+4285,2,Clear Reply,Explicit
+4286,1,Ambivalent,Implicit
+4287,4,Clear Reply,Explicit
+4288,4,Ambivalent,Implicit
+4296,4,Ambivalent,Dodging
+4298,0,Clear Reply,Explicit
+4299,0,Clear Reply,Explicit
+4306,1,Ambivalent,Deflection
+4310,3,Clear Reply,Explicit
+4311,2,Ambivalent,Implicit
+4320,4,Ambivalent,Implicit
+4321,0,Ambivalent,General
+4325,1,Clear Reply,Explicit
+4328,3,Clear Reply,Explicit
+4332,2,Ambivalent,Dodging
+4333,2,Ambivalent,Implicit
+4334,0,Ambivalent,Partial/half-answer
+4336,4,Clear Reply,Explicit
+4337,3,Clear Reply,Explicit
+4338,4,Clear Reply,Explicit
+4342,3,Clear Reply,Explicit
+4343,4,Ambivalent,General
+4349,0,Clear Reply,Explicit
+4350,3,Ambivalent,Deflection
+4351,1,Clear Reply,Explicit
+4360,4,Clear Non-Reply,Declining to answer
+4361,1,Clear Reply,Explicit
+4368,2,Ambivalent,General
+4371,0,Clear Reply,Explicit
+4374,4,Clear Non-Reply,Declining to answer
+4375,2,Clear Reply,Explicit
+4376,2,Ambivalent,Implicit
+4378,4,Clear Non-Reply,Clarification
+4379,4,Ambivalent,General
+4382,2,Ambivalent,General
+4387,1,Clear Reply,Explicit
+4388,2,Ambivalent,General
+4394,2,Clear Reply,Explicit
+4404,2,Clear Reply,Explicit
+4405,4,Clear Reply,Explicit
+4406,4,Ambivalent,Deflection
+4408,4,Clear Reply,Explicit
+4412,1,Clear Reply,Explicit
+4417,3,Clear Reply,Explicit
+4418,1,Clear Non-Reply,Claims ignorance
+4420,4,Ambivalent,General
+4422,2,Clear Reply,Explicit
+4426,1,Clear Reply,Explicit
+4427,1,Ambivalent,General
+4430,2,Clear Reply,Explicit
+4431,1,Ambivalent,General
+4436,4,Clear Reply,Explicit
+4438,2,Clear Reply,Explicit
+4439,2,Clear Reply,Explicit
+4440,1,Clear Reply,Explicit
+4441,1,Clear Reply,Explicit
+4443,4,Ambivalent,Dodging
+4446,3,Clear Reply,Explicit
+4447,1,Ambivalent,Implicit
+4448,3,Clear Reply,Explicit
+4452,3,Ambivalent,Implicit
+4453,1,Ambivalent,General
+4454,3,Clear Non-Reply,Declining to answer
+4455,3,Ambivalent,Implicit
+4456,0,Ambivalent,General
+4458,2,Ambivalent,Implicit
+4462,3,Clear Reply,Explicit
+4463,2,Clear Reply,Explicit
+4465,3,Ambivalent,Deflection
+4466,1,Clear Reply,Explicit
+4467,1,Clear Reply,Explicit
+4472,3,Ambivalent,Dodging
+4473,1,Ambivalent,Dodging
+4475,3,Clear Reply,Explicit
+4476,2,Ambivalent,General
+4481,0,Clear Reply,Explicit
+4482,3,Ambivalent,General
+4483,2,Clear Reply,Explicit
+4487,1,Ambivalent,Deflection
+4489,0,Ambivalent,Dodging
+4493,2,Clear Non-Reply,Claims ignorance
+4495,2,Clear Reply,Explicit
+4496,0,Clear Non-Reply,Declining to answer
+4497,2,Clear Reply,Explicit
+4498,2,Clear Reply,Explicit
+4502,2,Clear Non-Reply,Clarification
+4504,2,Ambivalent,General
+4510,2,Clear Reply,Explicit
+4511,3,Ambivalent,Deflection
+4516,4,Clear Reply,Explicit
+4522,1,Ambivalent,General
+4523,4,Ambivalent,Dodging
+4525,1,Clear Non-Reply,Declining to answer
+4527,3,Clear Reply,Explicit
+4529,3,Clear Non-Reply,Claims ignorance
+4531,0,Ambivalent,General
+4532,3,Clear Reply,Explicit
+4533,4,Clear Reply,Explicit
+4536,4,Clear Reply,Explicit
+4544,0,Ambivalent,Deflection
+4549,2,Clear Reply,Explicit
+4555,1,Ambivalent,Dodging
+4560,0,Clear Reply,Explicit
+4561,3,Ambivalent,Dodging
+4563,2,Clear Reply,Explicit
+4565,3,Ambivalent,Implicit
+4568,3,Ambivalent,General
+4569,0,Ambivalent,General
+4571,3,Clear Reply,Explicit
+4572,2,Ambivalent,Deflection
+4574,1,Ambivalent,Deflection
+4577,1,Clear Reply,Explicit
+4578,3,Clear Reply,Explicit
+4579,0,Clear Reply,Explicit
+4582,0,Clear Reply,Explicit
+4583,3,Clear Reply,Explicit
+4584,3,Ambivalent,Dodging
+4586,0,Ambivalent,Implicit
+4587,2,Ambivalent,Dodging
+4589,2,Clear Reply,Explicit
+4591,4,Clear Reply,Explicit
+4593,2,Clear Reply,Explicit
+4595,1,Clear Reply,Explicit
+4597,2,Ambivalent,General
+4598,4,Clear Reply,Explicit
+4601,2,Clear Non-Reply,Declining to answer
+4604,0,Clear Reply,Explicit
+4606,1,Clear Reply,Explicit
+4611,2,Ambivalent,Deflection
+4614,0,Ambivalent,Dodging
+4615,2,Clear Reply,Explicit
+4616,4,Ambivalent,General
+4617,2,Clear Reply,Explicit
+4620,2,Clear Reply,Explicit
+4623,4,Clear Reply,Explicit
+4628,1,Ambivalent,General
+4630,1,Clear Reply,Explicit
+4631,1,Ambivalent,Dodging
+4632,3,Ambivalent,Dodging
+4633,1,Ambivalent,Dodging
+4636,3,Clear Reply,Explicit
+4639,3,Clear Reply,Explicit
+4641,1,Clear Reply,Explicit
+4648,0,Clear Reply,Explicit
+4650,3,Ambivalent,Deflection
+4652,3,Clear Reply,Explicit
+4653,0,Clear Reply,Explicit
+4659,1,Clear Non-Reply,Declining to answer
+4661,1,Clear Reply,Explicit
+4664,2,Ambivalent,General
+4665,2,Ambivalent,Deflection
+4670,2,Clear Non-Reply,Clarification
+4671,4,Ambivalent,General
+4675,2,Ambivalent,Dodging
+4676,0,Clear Non-Reply,Declining to answer
+4677,0,Clear Reply,Explicit
+4681,4,Clear Reply,Explicit
+4682,2,Clear Reply,Explicit
+4683,4,Ambivalent,Dodging
+4685,2,Ambivalent,Dodging
+4686,3,Clear Reply,Explicit
+4688,3,Clear Reply,Explicit
+4691,2,Ambivalent,General
+4694,2,Ambivalent,General
+4695,3,Clear Reply,Explicit
+4701,1,Ambivalent,Dodging
+4702,1,Ambivalent,Dodging
+4704,4,Clear Reply,Explicit
+4705,0,Ambivalent,General
+4706,1,Clear Reply,Explicit
+4718,1,Clear Reply,Explicit
+4719,0,Ambivalent,General
+4721,0,Clear Reply,Explicit
+4723,3,Clear Reply,Explicit
+4733,0,Clear Reply,Explicit
+4735,3,Ambivalent,Implicit
+4738,3,Clear Reply,Explicit
+4739,1,Clear Non-Reply,Declining to answer
+4740,2,Ambivalent,Implicit
+4742,4,Clear Reply,Explicit
+4745,3,Clear Non-Reply,Claims ignorance
+4746,2,Clear Reply,Explicit
+4747,1,Ambivalent,General
+4754,0,Clear Reply,Explicit
+4757,4,Clear Non-Reply,Declining to answer
+4758,4,Ambivalent,Deflection
+4760,2,Ambivalent,General
+4763,3,Clear Reply,Explicit
+4765,3,Clear Reply,Explicit
+4766,2,Clear Reply,Explicit
+4769,1,Clear Reply,Explicit
+4771,2,Clear Reply,Explicit
+4772,3,Clear Reply,Explicit
+4776,2,Clear Reply,Explicit
+4778,3,Ambivalent,Deflection
+4780,1,Clear Reply,Explicit
+4781,2,Ambivalent,Deflection
+4785,2,Clear Reply,Explicit
+4790,4,Ambivalent,Dodging
+4791,4,Ambivalent,General
+4792,2,Ambivalent,General
+4796,1,Ambivalent,General
+4797,1,Clear Reply,Explicit
+4798,4,Ambivalent,Dodging
+4799,2,Ambivalent,General
+4800,0,Ambivalent,Dodging
+4802,4,Ambivalent,Dodging
+4803,1,Clear Non-Reply,Declining to answer
+4804,4,Ambivalent,General
+4806,0,Ambivalent,Deflection
+4808,1,Ambivalent,General
+4812,0,Clear Reply,Explicit
+4814,2,Clear Reply,Explicit
+4817,2,Ambivalent,Dodging
+4818,4,Clear Reply,Explicit
+4820,3,Clear Reply,Explicit
+4821,0,Ambivalent,Dodging
+4823,2,Ambivalent,Implicit
+4825,0,Clear Non-Reply,Declining to answer
+4826,3,Clear Reply,Explicit
+4828,4,Clear Reply,Explicit
+4829,2,Clear Reply,Explicit
+4831,0,Clear Non-Reply,Declining to answer
+4835,2,Clear Non-Reply,Declining to answer
+4836,0,Ambivalent,General
+4837,3,Ambivalent,Dodging
+4838,1,Clear Non-Reply,Declining to answer
+4840,2,Clear Non-Reply,Declining to answer
+4841,3,Ambivalent,Implicit
+4843,3,Ambivalent,General
+4844,0,Clear Non-Reply,Declining to answer
+4845,2,Clear Non-Reply,Claims ignorance
+4851,0,Ambivalent,Dodging
+4852,0,Ambivalent,Implicit
+4853,4,Clear Non-Reply,Declining to answer
+4854,1,Ambivalent,Deflection
+4855,1,Clear Non-Reply,Declining to answer
+4856,1,Clear Non-Reply,Declining to answer
+4858,3,Clear Reply,Explicit
+4861,2,Clear Reply,Explicit
+4862,0,Clear Reply,Explicit
+4863,3,Clear Reply,Explicit
+4864,1,Clear Reply,Explicit
+4867,3,Clear Reply,Explicit
+4868,1,Ambivalent,Deflection
+4870,3,Ambivalent,Deflection
+4872,3,Ambivalent,Deflection
+4876,3,Clear Reply,Explicit
+4877,1,Ambivalent,Dodging
+4878,0,Clear Non-Reply,Declining to answer
+4880,0,Clear Non-Reply,Claims ignorance
+4881,2,Clear Reply,Explicit
+4882,4,Ambivalent,General
+4884,2,Clear Reply,Explicit
+4886,1,Ambivalent,General
+4889,3,Ambivalent,Dodging
+4890,1,Ambivalent,Dodging
+4892,0,Clear Non-Reply,Clarification
+4898,0,Clear Non-Reply,Declining to answer
+4900,3,Ambivalent,General
+4903,2,Clear Reply,Explicit
+4908,4,Ambivalent,Implicit
+4910,2,Ambivalent,Dodging
+4917,3,Clear Reply,Explicit
+4918,3,Clear Reply,Explicit
+4919,0,Ambivalent,Deflection
+4922,3,Clear Reply,Explicit
+4924,2,Clear Reply,Explicit
+4925,4,Clear Reply,Explicit
+4930,2,Clear Reply,Explicit
+4931,2,Clear Reply,Explicit
+4932,1,Clear Reply,Explicit
+4933,1,Clear Reply,Explicit
+4941,0,Clear Reply,Explicit
+4943,3,Ambivalent,General
+4947,0,Clear Reply,Explicit
+4948,1,Clear Reply,Explicit
+4954,2,Ambivalent,General
+4965,4,Ambivalent,General
+4969,1,Clear Non-Reply,Declining to answer
+4970,1,Ambivalent,General
+4971,1,Clear Reply,Explicit
+4972,0,Clear Reply,Explicit
+4973,1,Ambivalent,Dodging
+4975,2,Clear Reply,Explicit
+4976,4,Clear Reply,Explicit
+4977,4,Ambivalent,Deflection
+4978,2,Ambivalent,General
+4982,2,Ambivalent,Implicit
+4983,3,Clear Reply,Explicit
+4985,3,Clear Reply,Explicit
+4987,1,Clear Reply,Explicit
+4988,0,Clear Reply,Explicit
+4989,2,Clear Reply,Explicit
+4992,3,Clear Reply,Explicit
+4993,1,Ambivalent,General
+4994,4,Clear Reply,Explicit
+5000,4,Ambivalent,General
+5001,0,Clear Reply,Explicit
+5002,4,Ambivalent,General
+5003,0,Clear Reply,Explicit
+5004,4,Ambivalent,General
+5007,4,Ambivalent,Implicit
+5008,1,Ambivalent,Deflection
+5010,3,Clear Reply,Explicit
+5015,1,Clear Reply,Explicit
+5018,4,Clear Reply,Explicit
+5020,3,Clear Non-Reply,Declining to answer
+5021,3,Clear Non-Reply,Declining to answer
+5023,3,Clear Reply,Explicit
+5026,2,Clear Reply,Explicit
+5027,4,Clear Reply,Explicit
+5029,2,Clear Reply,Explicit
+5031,0,Clear Non-Reply,Declining to answer
+5032,2,Ambivalent,Implicit
+5033,0,Clear Reply,Explicit
+5034,0,Ambivalent,General
+5035,2,Clear Reply,Explicit
+5040,0,Ambivalent,Implicit
+5041,3,Ambivalent,General
+5043,1,Clear Reply,Explicit
+5044,1,Clear Non-Reply,Declining to answer
+5045,1,Clear Reply,Explicit
+5047,2,Clear Reply,Explicit
+5051,0,Ambivalent,General
+5053,0,Ambivalent,General
+5054,3,Ambivalent,Dodging
+5057,4,Clear Reply,Explicit
+5060,4,Clear Non-Reply,Declining to answer
+5061,2,Clear Reply,Explicit
+5062,0,Ambivalent,Dodging
+5064,0,Clear Non-Reply,Claims ignorance
+5066,1,Clear Reply,Explicit
+5067,2,Ambivalent,Dodging
+5068,1,Ambivalent,Dodging
+5069,3,Ambivalent,General
+5072,4,Ambivalent,General
+5074,3,Ambivalent,Deflection
+5076,2,Ambivalent,General
+5078,2,Ambivalent,Implicit
+5079,4,Ambivalent,Implicit
+5082,3,Clear Reply,Explicit
+5083,3,Ambivalent,Deflection
+5084,1,Clear Non-Reply,Declining to answer
+5085,0,Ambivalent,Deflection
+5086,1,Ambivalent,Dodging
+5087,4,Ambivalent,Dodging
+5092,4,Ambivalent,Dodging
+5097,1,Clear Non-Reply,Declining to answer
+5102,2,Clear Reply,Explicit
+5103,1,Clear Non-Reply,Clarification
+5104,0,Clear Non-Reply,Declining to answer
+5105,3,Clear Reply,Explicit
+5106,2,Ambivalent,General
+5107,1,Clear Reply,Explicit
+5109,0,Clear Reply,Explicit
+5110,1,Clear Reply,Explicit
+5111,2,Ambivalent,Deflection
+5113,2,Ambivalent,Dodging
+5118,3,Ambivalent,General
+5120,2,Ambivalent,General
+5122,2,Ambivalent,General
+5130,3,Ambivalent,Dodging
+5142,3,Ambivalent,General
+5143,4,Clear Reply,Explicit
+5145,3,Ambivalent,Deflection
+5146,2,Clear Reply,Explicit
+5147,4,Ambivalent,Deflection
+5150,4,Ambivalent,Dodging
+5153,4,Ambivalent,General
+5154,2,Ambivalent,Dodging
+5155,4,Ambivalent,Dodging
+5156,0,Ambivalent,General
+5157,3,Clear Non-Reply,Declining to answer
+5158,2,Clear Non-Reply,Declining to answer
+5159,3,Clear Non-Reply,Declining to answer
+5161,4,Clear Non-Reply,Declining to answer
+5162,3,Ambivalent,Implicit
+5164,4,Ambivalent,Implicit
+5166,1,Clear Reply,Explicit
+5174,3,Ambivalent,General
+5177,4,Ambivalent,Implicit
+5181,4,Clear Reply,Explicit
+5183,0,Clear Reply,Explicit
+5184,2,Clear Reply,Explicit
+5187,4,Clear Non-Reply,Declining to answer
+5188,4,Clear Reply,Explicit
+5189,4,Clear Reply,Explicit
+5190,4,Ambivalent,Implicit
+5192,0,Clear Non-Reply,Declining to answer
+5195,2,Clear Non-Reply,Declining to answer
+5196,2,Clear Reply,Explicit
+5197,1,Clear Reply,Explicit
+5198,3,Clear Reply,Explicit
+5199,0,Clear Reply,Explicit
+5201,1,Clear Non-Reply,Declining to answer
+5205,1,Clear Reply,Explicit
+5207,2,Clear Non-Reply,Claims ignorance
+5209,4,Ambivalent,Implicit
+5210,4,Clear Non-Reply,Declining to answer
+5211,2,Clear Non-Reply,Declining to answer
+5214,0,Clear Reply,Explicit
+5215,0,Ambivalent,Implicit
+5217,0,Ambivalent,General
+5218,2,Clear Reply,Explicit
+5220,3,Clear Reply,Explicit
+5222,4,Clear Reply,Explicit
+5223,1,Clear Reply,Explicit
+5224,0,Ambivalent,General
+5226,4,Clear Reply,Explicit
+5228,4,Clear Reply,Explicit
+5229,1,Clear Reply,Explicit
+5231,2,Clear Reply,Explicit
+5236,0,Ambivalent,Partial/half-answer
+5238,0,Clear Non-Reply,Clarification
+5240,4,Ambivalent,Implicit
+5242,4,Clear Non-Reply,Declining to answer
+5243,0,Clear Reply,Explicit
+5246,4,Clear Non-Reply,Declining to answer
+5251,2,Clear Reply,Explicit
+5252,4,Clear Reply,Explicit
+5256,4,Ambivalent,General
+5259,0,Clear Reply,Explicit
+5262,4,Ambivalent,Dodging
+5263,0,Clear Non-Reply,Claims ignorance
+5264,4,Ambivalent,General
+5265,0,Clear Reply,Explicit
+5272,4,Clear Reply,Explicit
+5276,2,Clear Reply,Explicit
+5279,1,Clear Reply,Explicit
+5282,3,Ambivalent,Implicit
+5289,2,Clear Reply,Explicit
+5291,0,Ambivalent,Deflection
+5294,1,Ambivalent,General
+5297,2,Clear Reply,Explicit
+5298,4,Clear Reply,Explicit
+5299,2,Clear Reply,Explicit
+5303,3,Ambivalent,Implicit
+5304,1,Ambivalent,Dodging
+5315,3,Ambivalent,Implicit
+5316,3,Clear Reply,Explicit
+5319,4,Ambivalent,Implicit
+5323,3,Clear Reply,Explicit
+5325,3,Clear Reply,Explicit
+5328,2,Ambivalent,Implicit
+5332,3,Clear Reply,Explicit
+5333,2,Ambivalent,Implicit
+5334,1,Clear Reply,Explicit
+5335,0,Clear Reply,Explicit
+5338,0,Clear Reply,Explicit
+5339,3,Clear Reply,Explicit
+5340,3,Clear Reply,Explicit
+5341,3,Clear Non-Reply,Declining to answer
+5342,4,Clear Reply,Explicit
+5343,2,Ambivalent,Deflection
+5344,1,Ambivalent,Implicit
+5347,2,Ambivalent,Implicit
+5351,0,Ambivalent,Dodging
+5352,3,Ambivalent,Implicit
+5353,1,Ambivalent,General
+5358,0,Ambivalent,Deflection
+5360,3,Clear Non-Reply,Declining to answer
+5361,0,Clear Reply,Explicit
+5362,2,Ambivalent,Implicit
+5364,0,Ambivalent,General
+5365,2,Ambivalent,General
+5366,1,Clear Reply,Explicit
+5367,1,Clear Reply,Explicit
+5368,1,Ambivalent,Implicit
+5369,0,Clear Reply,Explicit
+5370,1,Clear Non-Reply,Declining to answer
+5371,0,Ambivalent,Deflection
+5372,2,Clear Reply,Explicit
+5374,2,Clear Non-Reply,Declining to answer
+5376,3,Clear Reply,Explicit
+5381,4,Clear Reply,Explicit
+5382,2,Clear Reply,Explicit
+5385,0,Ambivalent,Implicit
+5387,3,Clear Non-Reply,Declining to answer
+5388,0,Clear Non-Reply,Claims ignorance
+5390,3,Ambivalent,Deflection
+5391,1,Ambivalent,General
+5392,4,Clear Reply,Explicit
+5393,0,Clear Reply,Explicit
+5394,2,Ambivalent,Implicit
+5396,4,Clear Non-Reply,Declining to answer
+5397,0,Ambivalent,Implicit
+5400,3,Ambivalent,Partial/half-answer
+5401,2,Clear Reply,Explicit
+5402,2,Clear Reply,Explicit
+5403,3,Clear Reply,Explicit
+5409,4,Ambivalent,Deflection
+5411,4,Ambivalent,Implicit
+5412,4,Clear Non-Reply,Declining to answer
+5414,4,Clear Reply,Explicit
+5415,3,Clear Reply,Explicit
+5416,1,Clear Reply,Explicit
+5417,1,Ambivalent,General
+5418,4,Clear Reply,Explicit
+5419,3,Clear Non-Reply,Declining to answer
+5420,2,Clear Reply,Explicit
+5424,0,Clear Reply,Explicit
+5425,2,Ambivalent,Implicit
+5426,1,Ambivalent,Implicit
+5429,0,Clear Non-Reply,Declining to answer
+5430,3,Clear Reply,Explicit
+5431,1,Ambivalent,Deflection
+5432,4,Ambivalent,General
+5433,4,Clear Reply,Explicit
+5434,2,Clear Reply,Explicit
+5435,2,Clear Reply,Explicit
+5437,1,Clear Reply,Explicit
+5438,1,Clear Reply,Explicit
+5439,0,Ambivalent,Deflection
+5440,3,Clear Reply,Explicit
+5443,3,Clear Reply,Explicit
+5446,4,Clear Reply,Explicit
+5448,2,Ambivalent,Partial/half-answer
+5449,1,Ambivalent,Dodging
+5451,2,Ambivalent,Implicit
+5452,3,Clear Non-Reply,Clarification
+5453,3,Clear Reply,Explicit
+5454,3,Ambivalent,Implicit
+5455,1,Clear Reply,Explicit
+5457,1,Clear Reply,Explicit
+5461,3,Clear Reply,Explicit
+5463,3,Clear Reply,Explicit
+5464,3,Clear Non-Reply,Declining to answer
+5465,2,Clear Reply,Explicit
+5467,0,Ambivalent,General
+5468,1,Clear Reply,Explicit
+5469,3,Ambivalent,Implicit
+5470,1,Clear Reply,Explicit
+5472,4,Clear Reply,Explicit
+5475,4,Clear Reply,Explicit
+5477,3,Ambivalent,Deflection
+5478,4,Ambivalent,General
+5479,3,Ambivalent,Partial/half-answer
+5482,1,Ambivalent,Implicit
+5485,3,Clear Non-Reply,Claims ignorance
+5486,2,Ambivalent,Deflection
+5487,3,Clear Reply,Explicit
+5493,0,Ambivalent,Dodging
+5495,0,Clear Non-Reply,Declining to answer
+5498,3,Ambivalent,General
+5499,0,Ambivalent,Deflection
+5500,2,Ambivalent,Deflection
+5503,1,Ambivalent,Implicit
+5509,2,Clear Reply,Explicit
+5510,0,Ambivalent,Dodging
+5511,0,Clear Reply,Explicit
+5513,1,Ambivalent,Deflection
+5514,2,Clear Reply,Explicit
+5516,2,Ambivalent,General
+5520,3,Clear Reply,Explicit
+5521,2,Ambivalent,General
+5522,2,Clear Reply,Explicit
+5524,0,Clear Reply,Explicit
+5525,4,Ambivalent,Deflection
+5526,2,Ambivalent,General
+5527,1,Clear Reply,Explicit
+5528,4,Clear Reply,Explicit
+5532,3,Ambivalent,Implicit
+5533,1,Clear Reply,Explicit
+5535,4,Ambivalent,General
+5540,3,Ambivalent,Implicit
+5543,1,Clear Reply,Explicit
+5544,0,Clear Reply,Explicit
+5546,1,Clear Non-Reply,Declining to answer
+5550,1,Clear Reply,Explicit
+5552,4,Ambivalent,Implicit
+5554,0,Ambivalent,Dodging
+5555,4,Ambivalent,Implicit
+5557,2,Ambivalent,Implicit
+5559,4,Ambivalent,General
+5561,1,Ambivalent,Dodging
+5566,2,Clear Reply,Explicit
+5567,0,Clear Non-Reply,Declining to answer
+5568,2,Clear Reply,Explicit
+5571,2,Clear Reply,Explicit
+5572,0,Clear Reply,Explicit
+5573,3,Clear Reply,Explicit
+5574,4,Clear Reply,Explicit
+5575,1,Ambivalent,General
+5576,2,Clear Reply,Explicit
+5580,0,Clear Non-Reply,Clarification
+5582,2,Clear Reply,Explicit
+5583,0,Ambivalent,Implicit
+5584,1,Ambivalent,Deflection
+5586,2,Clear Reply,Explicit
+5588,3,Ambivalent,Deflection
+5589,3,Clear Reply,Explicit
+5590,3,Clear Reply,Explicit
+5591,4,Ambivalent,Partial/half-answer
+5593,3,Clear Non-Reply,Declining to answer
+5595,1,Ambivalent,Dodging
+5596,0,Clear Reply,Explicit
+5598,4,Clear Non-Reply,Declining to answer
+5600,3,Ambivalent,Deflection
+5602,2,Clear Reply,Explicit
+5603,4,Ambivalent,Deflection
+5604,4,Clear Reply,Explicit
+5605,0,Clear Reply,Explicit
+5606,4,Clear Reply,Explicit
+5612,1,Ambivalent,Dodging
+5614,4,Clear Reply,Explicit
+5619,1,Clear Reply,Explicit
+5621,3,Clear Non-Reply,Declining to answer
+5622,4,Clear Non-Reply,Declining to answer
+5623,0,Ambivalent,General
+5628,2,Clear Reply,Explicit
+5631,4,Ambivalent,Dodging
+5633,2,Clear Reply,Explicit
+5636,0,Clear Non-Reply,Declining to answer
+5637,2,Clear Reply,Explicit
+5638,4,Clear Reply,Explicit
+5641,3,Ambivalent,Deflection
+5645,0,Clear Reply,Explicit
+5646,4,Ambivalent,Implicit
+5647,3,Clear Reply,Explicit
+5648,2,Clear Non-Reply,Claims ignorance
+5650,4,Clear Reply,Explicit
+5651,0,Clear Reply,Explicit
+5652,0,Clear Reply,Explicit
+5654,3,Clear Reply,Explicit
+5656,3,Clear Non-Reply,Declining to answer
+5657,3,Clear Reply,Explicit
+5662,1,Clear Reply,Explicit
+5666,1,Ambivalent,Implicit
+5667,0,Ambivalent,General
+5668,2,Ambivalent,General
+5669,0,Clear Reply,Explicit
+5670,3,Ambivalent,General
+5671,4,Ambivalent,Dodging
+5672,1,Ambivalent,Implicit
+5673,4,Ambivalent,General
+5674,4,Clear Reply,Explicit
+5675,2,Clear Reply,Explicit
+5676,4,Ambivalent,Dodging
+5679,2,Clear Reply,Explicit
+5684,3,Clear Reply,Explicit
+5685,3,Clear Reply,Explicit
+5687,3,Clear Reply,Explicit
+5689,4,Ambivalent,General
+5690,1,Clear Reply,Explicit
+5692,2,Clear Reply,Explicit
+5693,1,Clear Reply,Explicit
+5695,4,Ambivalent,Deflection
+5696,4,Clear Non-Reply,Clarification
+5697,1,Clear Reply,Explicit
+5700,1,Clear Reply,Explicit
+5702,0,Clear Reply,Explicit
+5704,3,Ambivalent,Dodging
+5705,0,Clear Reply,Explicit
+5706,1,Clear Reply,Explicit
+5708,0,Clear Reply,Explicit
+5709,3,Clear Non-Reply,Declining to answer
+5713,3,Ambivalent,Partial/half-answer
+5716,2,Clear Reply,Explicit
+5717,2,Clear Reply,Explicit
+5719,4,Clear Reply,Explicit
+5720,3,Ambivalent,Implicit
+5721,2,Clear Non-Reply,Declining to answer
+5722,2,Ambivalent,Deflection
+5723,1,Clear Reply,Explicit
+5728,0,Clear Non-Reply,Declining to answer
+5729,2,Clear Reply,Explicit
+5730,1,Clear Reply,Explicit
+5734,4,Ambivalent,Deflection
+5735,2,Clear Reply,Explicit
+5738,2,Clear Reply,Explicit
+5740,1,Ambivalent,Deflection
+5744,3,Clear Reply,Explicit
+5746,0,Clear Reply,Explicit
+5747,4,Ambivalent,Implicit
+5748,0,Ambivalent,Deflection
+5749,1,Ambivalent,Implicit
+5751,3,Clear Reply,Explicit
+5756,4,Ambivalent,Implicit
+5758,3,Clear Reply,Explicit
+5759,2,Clear Reply,Explicit
+5761,2,Clear Non-Reply,Declining to answer
+5763,4,Clear Reply,Explicit
+5764,4,Ambivalent,General
+5766,1,Clear Reply,Explicit
+5767,0,Clear Reply,Explicit
+5768,3,Ambivalent,General
+5777,2,Clear Reply,Explicit
+5784,2,Clear Reply,Explicit
+5785,4,Ambivalent,Dodging
+5786,2,Ambivalent,General
+5787,4,Ambivalent,General
+5789,2,Ambivalent,Implicit
+5790,0,Ambivalent,Implicit
+5791,4,Ambivalent,Deflection
+5792,2,Ambivalent,Implicit
+5795,3,Clear Reply,Explicit
+5796,1,Clear Reply,Explicit
+5797,0,Ambivalent,Implicit
+5798,0,Clear Non-Reply,Declining to answer
+5799,1,Clear Reply,Explicit
+5801,4,Clear Reply,Explicit
+5807,0,Ambivalent,Implicit
+5810,1,Clear Reply,Explicit
+5811,4,Clear Reply,Explicit
+5812,2,Ambivalent,Implicit
+5816,0,Clear Reply,Explicit
+5817,0,Ambivalent,Implicit
+5818,2,Clear Non-Reply,Claims ignorance
+5822,0,Ambivalent,Dodging
+5823,0,Clear Reply,Explicit
+5824,3,Clear Reply,Explicit
+5825,0,Ambivalent,Deflection
+5826,4,Ambivalent,General
+5828,3,Clear Non-Reply,Declining to answer
+5830,3,Ambivalent,Dodging
+5831,3,Clear Reply,Explicit
+5836,3,Clear Reply,Explicit
+5837,2,Clear Reply,Explicit
+5838,4,Ambivalent,General
+5841,2,Ambivalent,General
+5842,2,Clear Reply,Explicit
+5844,1,Ambivalent,Partial/half-answer
+5848,1,Ambivalent,Partial/half-answer
+5850,4,Ambivalent,Implicit
+5851,0,Clear Reply,Explicit
+5852,1,Ambivalent,Partial/half-answer
+5855,3,Clear Non-Reply,Declining to answer
+5859,0,Clear Reply,Explicit
+5860,3,Ambivalent,Implicit
+5863,1,Clear Non-Reply,Declining to answer
+5866,3,Ambivalent,General
+5868,4,Ambivalent,Dodging
+5869,2,Ambivalent,General
+5870,0,Ambivalent,Partial/half-answer
+5872,2,Ambivalent,General
+5874,3,Clear Non-Reply,Declining to answer
+5875,0,Ambivalent,General
+5881,0,Ambivalent,General
+5882,1,Clear Non-Reply,Declining to answer
+5884,3,Ambivalent,Implicit
+5886,3,Ambivalent,Implicit
+5887,1,Ambivalent,General
+5888,3,Clear Non-Reply,Declining to answer
+5890,4,Ambivalent,General
+5894,3,Clear Reply,Explicit
+5895,3,Ambivalent,Deflection
+5898,4,Ambivalent,Partial/half-answer
+5899,2,Clear Reply,Explicit
+5902,0,Ambivalent,Implicit
+5904,2,Ambivalent,Dodging
+5905,2,Ambivalent,Partial/half-answer
+5906,3,Clear Non-Reply,Declining to answer
+5907,1,Clear Reply,Explicit
+5908,4,Clear Reply,Explicit
+5916,1,Clear Reply,Explicit
+5917,2,Ambivalent,Partial/half-answer
+5919,4,Ambivalent,General
+5920,2,Ambivalent,Implicit
+5921,2,Ambivalent,Dodging
+5923,0,Clear Reply,Explicit
+5924,0,Clear Reply,Explicit
+5925,2,Ambivalent,General
+5927,2,Ambivalent,Partial/half-answer
+5929,1,Clear Reply,Explicit
+5930,2,Ambivalent,General
+5933,2,Ambivalent,General
+5939,4,Clear Reply,Explicit
+5943,0,Ambivalent,Partial/half-answer
+5945,4,Clear Reply,Explicit
+5946,1,Ambivalent,Deflection
+5947,4,Clear Reply,Explicit
+5949,1,Ambivalent,Deflection
+5950,0,Ambivalent,Dodging
+5955,0,Ambivalent,Deflection
+5959,3,Ambivalent,General
+5960,4,Ambivalent,Implicit
+5961,2,Ambivalent,Deflection
+5963,4,Clear Reply,Explicit
+5964,0,Ambivalent,Deflection
+5967,1,Clear Reply,Explicit
+5970,2,Ambivalent,Deflection
+5973,0,Ambivalent,Implicit
+5974,2,Ambivalent,General
+5975,1,Ambivalent,General
+5978,3,Clear Reply,Explicit
+5980,2,Clear Reply,Explicit
+5981,0,Ambivalent,General
+5983,3,Clear Non-Reply,Declining to answer
+5988,1,Clear Reply,Explicit
+5992,0,Clear Reply,Explicit
+6001,1,Ambivalent,Implicit
+6002,3,Clear Reply,Explicit
+6006,4,Ambivalent,Deflection
+6007,0,Ambivalent,Deflection
+6010,2,Ambivalent,General
+6011,4,Clear Non-Reply,Declining to answer
+6014,4,Clear Non-Reply,Declining to answer
+6016,4,Ambivalent,General
+6017,4,Ambivalent,General
+6019,1,Clear Non-Reply,Declining to answer
+6022,3,Clear Reply,Explicit
+6029,1,Ambivalent,General
+6031,0,Clear Non-Reply,Clarification
+6032,0,Clear Reply,Explicit
+6034,4,Clear Non-Reply,Declining to answer
+6035,0,Clear Non-Reply,Declining to answer
+6037,2,Ambivalent,Implicit
+6040,2,Clear Reply,Explicit
+6044,3,Clear Non-Reply,Declining to answer
+6046,4,Ambivalent,General
+6048,3,Clear Reply,Explicit
+6051,1,Clear Reply,Explicit
+6057,2,Clear Non-Reply,Declining to answer
+6059,1,Clear Reply,Explicit
+6064,4,Clear Reply,Explicit
+6066,2,Clear Reply,Explicit
+6068,0,Ambivalent,Partial/half-answer
+6070,4,Clear Reply,Explicit
+6073,4,Ambivalent,Deflection
+6078,2,Clear Reply,Explicit
+6079,2,Ambivalent,Implicit
+6081,4,Clear Reply,Explicit
+6082,0,Clear Reply,Explicit
+6084,1,Ambivalent,Implicit
+6087,2,Clear Reply,Explicit
+6088,2,Ambivalent,Implicit
+6089,4,Clear Reply,Explicit
+6092,1,Ambivalent,Implicit
+6098,0,Clear Reply,Explicit
+6099,4,Ambivalent,Deflection
+6101,4,Ambivalent,Implicit
+6105,0,Clear Reply,Explicit
+6109,4,Ambivalent,Partial/half-answer
+6110,3,Clear Non-Reply,Declining to answer
+6111,2,Ambivalent,Implicit
+6113,1,Clear Non-Reply,Declining to answer
+6116,4,Clear Reply,Explicit
+6117,1,Clear Reply,Explicit
+6118,1,Clear Non-Reply,Declining to answer
+6119,4,Ambivalent,Implicit
+6123,1,Clear Non-Reply,Declining to answer
+6126,2,Clear Non-Reply,Declining to answer
+6128,4,Clear Reply,Explicit
+6131,3,Clear Reply,Explicit
+6135,4,Ambivalent,General
+6136,0,Clear Reply,Explicit
+6137,1,Ambivalent,Implicit
+6145,0,Ambivalent,General
+6146,2,Ambivalent,General
+6147,1,Ambivalent,Implicit
+6152,0,Clear Reply,Explicit
+6157,4,Ambivalent,Partial/half-answer
+6158,1,Ambivalent,General
+6161,4,Clear Non-Reply,Claims ignorance
+6162,1,Clear Non-Reply,Claims ignorance
+6165,0,Clear Non-Reply,Claims ignorance
+6170,0,Ambivalent,Implicit
+6172,2,Clear Reply,Explicit
+6174,3,Ambivalent,Dodging
+6183,2,Ambivalent,Implicit
+6184,2,Clear Reply,Explicit
+6189,3,Clear Reply,Explicit
+6193,1,Clear Reply,Explicit
+6197,1,Ambivalent,Implicit
+6198,4,Clear Reply,Explicit
+6202,0,Ambivalent,General
+6204,1,Clear Reply,Explicit
+6205,4,Ambivalent,Implicit
+6210,1,Clear Reply,Explicit
+6212,4,Clear Reply,Explicit
+6216,2,Ambivalent,Implicit
+6220,0,Ambivalent,Deflection
+6222,1,Clear Reply,Explicit
+6226,4,Clear Reply,Explicit
+6228,3,Ambivalent,Deflection
+6229,4,Ambivalent,General
+6230,1,Ambivalent,Deflection
+6234,2,Ambivalent,General
+6236,3,Clear Reply,Explicit
+6237,0,Ambivalent,Implicit
+6241,3,Clear Reply,Explicit
+6242,3,Clear Reply,Explicit
+6243,4,Clear Non-Reply,Clarification
+6244,1,Ambivalent,Implicit
+6245,4,Ambivalent,Deflection
+6248,0,Ambivalent,Implicit
+6252,4,Clear Reply,Explicit
+6257,1,Ambivalent,General
+6261,3,Clear Reply,Explicit
+6262,3,Ambivalent,General
+6264,2,Ambivalent,General
+6267,4,Clear Reply,Explicit
+6270,0,Clear Non-Reply,Declining to answer
+6271,2,Clear Reply,Explicit
+6272,0,Clear Reply,Explicit
+6275,2,Clear Non-Reply,Declining to answer
+6277,2,Clear Reply,Explicit
+6278,3,Clear Reply,Explicit
+6279,2,Clear Reply,Explicit
+6281,4,Clear Reply,Explicit
+6282,1,Clear Non-Reply,Claims ignorance
+6285,2,Clear Reply,Explicit
+6286,2,Clear Reply,Explicit
+6288,0,Clear Reply,Explicit
+6293,4,Clear Reply,Explicit
+6296,4,Clear Reply,Explicit
+6298,3,Ambivalent,Implicit
+6301,3,Ambivalent,Partial/half-answer
+6303,3,Ambivalent,Partial/half-answer
+6305,1,Clear Reply,Explicit
+6308,3,Clear Reply,Explicit
+6312,0,Ambivalent,Implicit
+6313,3,Ambivalent,General
+6314,3,Clear Reply,Explicit
+6317,4,Clear Reply,Explicit
+6318,0,Clear Reply,Explicit
+6319,4,Clear Reply,Explicit
+6320,0,Clear Non-Reply,Declining to answer
+6327,1,Clear Non-Reply,Declining to answer
+6329,1,Ambivalent,Deflection
+6331,4,Clear Reply,Explicit
+6334,1,Clear Reply,Explicit
+6336,4,Ambivalent,General
+6337,4,Clear Reply,Explicit
+6340,0,Ambivalent,Partial/half-answer
+6342,2,Ambivalent,Deflection
+6345,3,Clear Reply,Explicit
+6347,2,Clear Non-Reply,Claims ignorance
+6349,0,Clear Reply,Explicit
+6350,0,Clear Reply,Explicit
+6353,1,Clear Reply,Explicit
+6355,4,Clear Reply,Explicit
+6359,0,Clear Reply,Explicit
+6361,4,Clear Reply,Explicit
+6364,3,Clear Reply,Explicit
+6366,4,Clear Reply,Explicit
+6367,1,Ambivalent,Deflection
+6368,1,Ambivalent,Implicit
+6373,1,Ambivalent,Deflection
+6376,0,Clear Reply,Explicit
+6379,2,Clear Reply,Explicit
+6380,4,Clear Reply,Explicit
+6384,2,Clear Reply,Explicit
+6385,4,Ambivalent,Implicit
+6386,0,Ambivalent,Dodging
+6389,1,Ambivalent,Implicit
+6393,1,Clear Reply,Explicit
+6394,0,Clear Reply,Explicit
+6395,3,Clear Reply,Explicit
+6396,2,Clear Reply,Explicit
+6397,4,Clear Reply,Explicit
+6400,2,Clear Reply,Explicit
+6406,1,Ambivalent,Dodging
+6410,3,Ambivalent,General
+6414,4,Clear Reply,Explicit
+6415,1,Clear Reply,Explicit
+6417,4,Ambivalent,Dodging
+6420,0,Clear Reply,Explicit
+6421,0,Ambivalent,Implicit
+6430,0,Ambivalent,Implicit
+6431,4,Clear Reply,Explicit
+6437,0,Ambivalent,General
+6438,1,Ambivalent,General
+6439,0,Clear Reply,Explicit
+6445,3,Clear Reply,Explicit
+6449,4,Ambivalent,General
+6450,2,Ambivalent,Deflection
+6451,3,Clear Reply,Explicit
+6452,2,Ambivalent,General
+6453,0,Clear Reply,Explicit
+6465,1,Ambivalent,Deflection
+6473,2,Clear Non-Reply,Declining to answer
+6478,1,Ambivalent,General
+6481,1,Ambivalent,Implicit
+6482,2,Ambivalent,General
+6485,4,Ambivalent,Deflection
+6486,1,Clear Reply,Explicit
+6489,1,Clear Reply,Explicit
+6491,1,Ambivalent,Deflection
+6492,2,Clear Reply,Explicit
+6496,1,Ambivalent,Partial/half-answer
+6497,4,Clear Reply,Explicit
+6498,3,Ambivalent,Deflection
+6507,4,Ambivalent,Implicit
+6509,0,Ambivalent,General
+6512,1,Clear Reply,Explicit
+6515,4,Ambivalent,Deflection
+6517,2,Ambivalent,Implicit
+6520,0,Ambivalent,Implicit
+6522,2,Clear Reply,Explicit
+6525,0,Clear Non-Reply,Declining to answer
+6526,0,Ambivalent,Implicit
+6532,1,Clear Reply,Explicit
+6535,4,Clear Reply,Explicit
+6536,3,Clear Reply,Explicit
+6537,0,Clear Reply,Explicit
+6540,4,Clear Reply,Explicit
+6543,0,Clear Non-Reply,Declining to answer
+6555,2,Ambivalent,Deflection
+6565,4,Clear Reply,Explicit
+6574,1,Clear Reply,Explicit
+6579,2,Ambivalent,General
+6583,1,Ambivalent,Partial/half-answer
+6584,0,Ambivalent,Deflection
+6587,2,Clear Reply,Explicit
+6589,4,Clear Reply,Explicit
+6594,1,Clear Reply,Explicit
+6595,1,Clear Non-Reply,Declining to answer
+6597,2,Ambivalent,General
+6598,3,Clear Reply,Explicit
+6604,1,Clear Reply,Explicit
+6605,3,Clear Reply,Explicit
+6607,0,Clear Reply,Explicit
+6615,1,Ambivalent,General
+6617,3,Clear Reply,Explicit
+6620,1,Ambivalent,Dodging
+6622,3,Clear Reply,Explicit
+6629,3,Ambivalent,General
+6630,0,Ambivalent,Implicit
+6631,1,Ambivalent,Deflection
+6632,4,Clear Non-Reply,Declining to answer
+6640,4,Ambivalent,Implicit
+6642,1,Clear Reply,Explicit
+6648,3,Ambivalent,Partial/half-answer
+6649,0,Clear Reply,Explicit
+6651,4,Ambivalent,Implicit
+6654,2,Clear Reply,Explicit
+6658,4,Clear Reply,Explicit
+6660,2,Clear Reply,Explicit
+6662,0,Ambivalent,Implicit
+6663,1,Ambivalent,General
+6664,3,Clear Non-Reply,Claims ignorance
+6665,2,Ambivalent,Implicit
+6671,0,Clear Reply,Explicit
+6672,2,Clear Reply,Explicit
+6674,1,Ambivalent,General
+6675,0,Clear Reply,Explicit
+6677,0,Clear Reply,Explicit
+6679,0,Ambivalent,General
+6680,4,Clear Reply,Explicit
+6685,1,Clear Reply,Explicit
+6686,0,Clear Reply,Explicit
+6688,3,Clear Reply,Explicit
+6691,0,Clear Reply,Explicit
+6698,3,Ambivalent,Implicit
+6704,4,Clear Reply,Explicit
+6709,2,Clear Reply,Explicit
+6711,2,Clear Non-Reply,Declining to answer
+6715,0,Clear Reply,Explicit
+6716,3,Clear Reply,Explicit
+6720,4,Clear Reply,Explicit
+6738,2,Ambivalent,Dodging
+6740,4,Clear Reply,Explicit
+6743,2,Ambivalent,Implicit
+6751,1,Ambivalent,Dodging
+6752,3,Clear Reply,Explicit
+6754,0,Ambivalent,General
+6761,3,Clear Reply,Explicit
+6763,4,Ambivalent,General
+6780,1,Clear Reply,Explicit
+6782,4,Clear Reply,Explicit
+6785,2,Ambivalent,Partial/half-answer
+6786,2,Ambivalent,General
+6788,2,Clear Reply,Explicit
+6789,4,Clear Reply,Explicit
+6791,3,Ambivalent,General
+6794,0,Clear Reply,Explicit
+6798,4,Ambivalent,Implicit
+6801,1,Clear Reply,Explicit
+6803,3,Ambivalent,Implicit
+6811,0,Clear Reply,Explicit
+6817,2,Clear Non-Reply,Declining to answer
+6818,0,Ambivalent,Partial/half-answer
+6821,0,Clear Reply,Explicit
+6823,1,Clear Reply,Explicit
+6826,0,Clear Non-Reply,Declining to answer
+6834,4,Ambivalent,General
+6837,4,Clear Reply,Explicit
+6842,1,Ambivalent,Deflection
+6844,3,Ambivalent,General
+6851,4,Ambivalent,General
+6855,2,Clear Reply,Explicit
+6860,0,Ambivalent,Implicit
+6872,4,Clear Reply,Explicit
+6874,3,Clear Reply,Explicit
+6876,0,Ambivalent,Implicit
+6877,4,Ambivalent,Implicit
+6878,3,Clear Reply,Explicit
+6879,4,Clear Non-Reply,Declining to answer
+6880,4,Clear Reply,Explicit
+6881,3,Clear Reply,Explicit
+6883,0,Ambivalent,General
+6884,3,Ambivalent,General
+6885,4,Clear Reply,Explicit
+6888,1,Clear Reply,Explicit
+6892,1,Ambivalent,General
+6893,4,Clear Reply,Explicit
+6895,0,Ambivalent,General
+6897,4,Ambivalent,General
+6898,3,Clear Reply,Explicit
+6904,2,Ambivalent,General
+6909,3,Clear Reply,Explicit
+6911,2,Ambivalent,Implicit
+6914,4,Clear Reply,Explicit
+6915,3,Clear Reply,Explicit
+6919,1,Clear Reply,Explicit
+6920,4,Clear Reply,Explicit
+6930,0,Ambivalent,General
+6931,1,Ambivalent,Deflection
+6936,3,Clear Reply,Explicit
+6939,2,Ambivalent,Partial/half-answer
+6940,4,Ambivalent,Deflection
+6941,4,Clear Reply,Explicit
+6944,3,Ambivalent,General
+6949,0,Clear Reply,Explicit
+6950,1,Ambivalent,General
+6951,0,Ambivalent,Deflection
+6957,1,Ambivalent,Implicit
+6958,4,Ambivalent,Partial/half-answer
+6959,3,Clear Non-Reply,Declining to answer
+6963,4,Ambivalent,General
+6965,1,Clear Reply,Explicit
+6966,1,Ambivalent,Implicit
+6967,3,Clear Non-Reply,Declining to answer
+6968,3,Clear Reply,Explicit
+6970,4,Clear Reply,Explicit
+6973,1,Clear Reply,Explicit
+6974,3,Clear Reply,Explicit
+6976,1,Ambivalent,General
+6982,4,Ambivalent,Implicit
+6984,0,Ambivalent,General
+6987,3,Clear Reply,Explicit
+6989,3,Ambivalent,Partial/half-answer
+6990,3,Ambivalent,General
+6991,1,Ambivalent,Implicit
+6993,3,Clear Non-Reply,Claims ignorance
+6995,0,Ambivalent,Deflection
+6996,0,Ambivalent,Deflection
+7000,2,Clear Reply,Explicit
+7001,0,Ambivalent,General
+7003,2,Ambivalent,Implicit
+7008,4,Ambivalent,General
+7009,4,Clear Non-Reply,Declining to answer
+7010,3,Ambivalent,Deflection
+7011,1,Clear Reply,Explicit
+7012,1,Ambivalent,General
+7013,1,Clear Reply,Explicit
+7014,1,Ambivalent,General
+7017,4,Ambivalent,Implicit
+7018,1,Ambivalent,Deflection
+7019,1,Ambivalent,Dodging
+7021,3,Clear Reply,Explicit
+7022,1,Ambivalent,General
+7023,3,Clear Reply,Explicit
+7024,2,Ambivalent,Implicit
+7025,3,Clear Reply,Explicit
+7026,3,Ambivalent,General
+7029,4,Ambivalent,Dodging
+7030,3,Clear Reply,Explicit
+7034,0,Clear Reply,Explicit
+7035,3,Clear Reply,Explicit
+7038,4,Clear Reply,Explicit
+7041,1,Ambivalent,Implicit
+7042,3,Clear Reply,Explicit
+7044,4,Clear Reply,Explicit
+7046,0,Ambivalent,Deflection
+7051,3,Clear Non-Reply,Clarification
+7053,4,Ambivalent,General
+7056,1,Ambivalent,General
+7057,0,Ambivalent,General
+7058,0,Ambivalent,General
+7060,4,Ambivalent,General
+7061,3,Clear Reply,Explicit
+7065,2,Ambivalent,Dodging
+7066,3,Ambivalent,Deflection
+7068,4,Clear Reply,Explicit
+7069,2,Clear Non-Reply,Declining to answer
+7070,1,Ambivalent,General
+7072,1,Ambivalent,Implicit
+7074,2,Clear Non-Reply,Declining to answer
+7077,4,Clear Reply,Explicit
+7078,3,Clear Non-Reply,Clarification
+7080,4,Clear Reply,Explicit
+7081,4,Clear Reply,Explicit
+7083,2,Clear Non-Reply,Declining to answer
+7084,2,Clear Reply,Explicit
+7089,3,Ambivalent,Partial/half-answer
+7090,1,Clear Reply,Explicit
+7097,2,Clear Reply,Explicit
+7099,4,Clear Reply,Explicit
+7102,1,Clear Reply,Explicit
+7103,1,Ambivalent,General
+7105,1,Ambivalent,Partial/half-answer
+7109,4,Ambivalent,Deflection
+7110,1,Clear Reply,Explicit
+7111,1,Clear Reply,Explicit
+7114,3,Clear Reply,Explicit
+7115,3,Clear Reply,Explicit
+7117,3,Clear Reply,Explicit
+7119,1,Clear Reply,Explicit
+7120,3,Clear Non-Reply,Declining to answer
+7121,2,Clear Reply,Explicit
+7123,4,Ambivalent,General
+7127,3,Ambivalent,Implicit
+7129,1,Clear Reply,Explicit
+7130,3,Clear Reply,Explicit
+7132,1,Clear Non-Reply,Claims ignorance
+7133,2,Clear Reply,Explicit
+7134,0,Ambivalent,Implicit
+7135,4,Clear Reply,Explicit
+7137,3,Clear Reply,Explicit
+7139,0,Clear Non-Reply,Claims ignorance
+7141,4,Ambivalent,General
+7143,4,Ambivalent,General
+7146,2,Ambivalent,General
+7147,2,Ambivalent,Deflection
+7148,3,Ambivalent,Deflection
+7149,1,Clear Non-Reply,Clarification
+7150,1,Clear Reply,Explicit
+7151,0,Clear Non-Reply,Declining to answer
+7152,4,Ambivalent,General
+7153,3,Ambivalent,Deflection
+7155,0,Clear Reply,Explicit
+7157,2,Clear Reply,Explicit
+7160,3,Clear Non-Reply,Claims ignorance
+7161,1,Clear Reply,Explicit
+7165,4,Ambivalent,General
+7166,3,Clear Reply,Explicit
+7167,2,Clear Reply,Explicit
+7168,2,Clear Reply,Explicit
+7170,4,Clear Reply,Explicit
+7175,1,Ambivalent,General
+7176,4,Clear Reply,Explicit
+7178,2,Ambivalent,Deflection
+7180,2,Ambivalent,Implicit
+7181,2,Clear Reply,Explicit
+7182,4,Clear Reply,Explicit
+7184,2,Clear Reply,Explicit
+7185,2,Clear Non-Reply,Claims ignorance
+7187,4,Clear Non-Reply,Claims ignorance
+7189,0,Clear Reply,Explicit
+7190,4,Ambivalent,Partial/half-answer
+7191,3,Ambivalent,General
+7192,3,Ambivalent,General
+7194,1,Clear Reply,Explicit
+7197,1,Ambivalent,General
+7198,2,Clear Non-Reply,Claims ignorance
+7200,1,Ambivalent,Partial/half-answer
+7203,2,Clear Reply,Explicit
+7206,2,Clear Reply,Explicit
+7207,0,Ambivalent,Deflection
+7211,1,Clear Reply,Explicit
+7212,2,Clear Non-Reply,Claims ignorance
+7216,2,Clear Reply,Explicit
+7219,4,Ambivalent,Dodging
+7222,1,Ambivalent,General
+7227,4,Clear Reply,Explicit
+7228,0,Ambivalent,Deflection
+7229,1,Ambivalent,Deflection
+7234,1,Ambivalent,Deflection
+7235,0,Ambivalent,Implicit
+7236,3,Clear Reply,Explicit
+7238,3,Ambivalent,General
+7239,3,Ambivalent,General
+7244,2,Ambivalent,General
+7246,0,Ambivalent,Partial/half-answer
+7247,2,Clear Reply,Explicit
+7249,1,Clear Reply,Explicit
+7251,4,Clear Reply,Explicit
+7253,1,Clear Reply,Explicit
+7254,2,Clear Reply,Explicit
+7256,4,Clear Reply,Explicit
+7257,2,Clear Reply,Explicit
+7258,1,Clear Reply,Explicit
+7260,3,Ambivalent,General
+7263,0,Clear Reply,Explicit
+7264,2,Clear Reply,Explicit
+7265,3,Clear Non-Reply,Claims ignorance
+7266,2,Ambivalent,Deflection
+7267,4,Clear Reply,Explicit
+7269,1,Clear Reply,Explicit
+7270,1,Clear Reply,Explicit
+7271,1,Clear Non-Reply,Declining to answer
+7273,1,Ambivalent,Deflection
+7274,2,Clear Reply,Explicit
+7277,0,Ambivalent,General
+7278,4,Ambivalent,Deflection
+7283,2,Clear Reply,Explicit
+7285,2,Clear Reply,Explicit
+7288,2,Clear Reply,Explicit
+7289,0,Clear Reply,Explicit
+7291,0,Clear Reply,Explicit
+7293,2,Ambivalent,Deflection
+7294,2,Clear Non-Reply,Declining to answer
+7296,2,Clear Reply,Explicit
+7297,0,Clear Reply,Explicit
+7298,2,Clear Reply,Explicit
+7300,0,Clear Reply,Explicit
+7301,3,Ambivalent,Implicit
+7302,1,Ambivalent,Deflection
+7305,2,Ambivalent,Dodging
+7306,0,Ambivalent,Implicit
+7307,4,Clear Reply,Explicit
+7308,0,Ambivalent,Implicit
+7309,1,Clear Reply,Explicit
+7310,0,Clear Reply,Explicit
+7311,3,Ambivalent,Dodging
+7313,4,Clear Non-Reply,Claims ignorance
+7315,4,Ambivalent,Deflection
+7316,1,Clear Reply,Explicit
+7317,1,Ambivalent,Deflection
+7318,3,Ambivalent,General
+7320,4,Clear Reply,Explicit
+7321,2,Ambivalent,General
+7322,3,Ambivalent,General
+7324,2,Ambivalent,General
+7326,1,Clear Reply,Explicit
+7329,1,Clear Reply,Explicit
+7331,3,Clear Non-Reply,Clarification
+7337,4,Clear Reply,Explicit
+7340,3,Clear Reply,Explicit
+7341,2,Ambivalent,Implicit
+7342,1,Ambivalent,Dodging
+7343,1,Ambivalent,General
+7344,0,Ambivalent,Deflection
+7348,3,Ambivalent,General
+7349,3,Clear Reply,Explicit
+7350,4,Clear Reply,Explicit
+7353,3,Ambivalent,Partial/half-answer
+7354,1,Clear Reply,Explicit
+7355,3,Clear Reply,Explicit
+7356,3,Clear Reply,Explicit
+7359,0,Ambivalent,Deflection
+7360,1,Clear Reply,Explicit
+7362,0,Clear Reply,Explicit
+7363,0,Ambivalent,General
+7364,0,Clear Reply,Explicit
+7366,1,Ambivalent,General
+7367,3,Clear Reply,Explicit
+7368,4,Ambivalent,Deflection
+7369,2,Clear Reply,Explicit
+7370,4,Ambivalent,General
+7372,1,Clear Reply,Explicit
+7373,4,Ambivalent,General
+7375,0,Ambivalent,General
+7378,1,Ambivalent,Deflection
+7379,1,Clear Reply,Explicit
+7380,0,Clear Reply,Explicit
+7381,2,Clear Reply,Explicit
+7382,2,Ambivalent,Dodging
+7383,4,Ambivalent,Deflection
+7386,0,Clear Reply,Explicit
+7388,0,Ambivalent,General
+7391,3,Ambivalent,Implicit
+7392,2,Clear Reply,Explicit
+7393,3,Ambivalent,Deflection
+7394,1,Ambivalent,Dodging
+7397,4,Clear Non-Reply,Claims ignorance
+7399,2,Clear Reply,Explicit
+7401,2,Clear Non-Reply,Clarification
+7402,2,Clear Reply,Explicit
+7403,0,Clear Reply,Explicit
+7404,0,Ambivalent,General
+7405,1,Clear Reply,Explicit
+7411,0,Clear Reply,Explicit
+7412,3,Ambivalent,General
+7413,1,Ambivalent,Dodging
+7415,4,Clear Reply,Explicit
+7418,2,Clear Reply,Explicit
+7419,3,Clear Reply,Explicit
+7424,4,Clear Reply,Explicit
+7428,1,Clear Reply,Explicit
+7433,4,Clear Non-Reply,Claims ignorance
+7434,3,Clear Reply,Explicit
+7436,2,Clear Reply,Explicit
+7437,0,Clear Reply,Explicit
+7439,2,Clear Reply,Explicit
+7440,0,Clear Reply,Explicit
+7441,1,Clear Non-Reply,Declining to answer
+7444,0,Clear Reply,Explicit
+7445,3,Ambivalent,Deflection
+7447,3,Ambivalent,Implicit
+7448,4,Clear Reply,Explicit
+7449,0,Ambivalent,General
+7453,4,Ambivalent,Dodging
+7454,2,Clear Reply,Explicit
+7455,3,Clear Non-Reply,Declining to answer
+7456,2,Ambivalent,Partial/half-answer
+7457,1,Clear Reply,Explicit
+7458,2,Ambivalent,Dodging
+7459,1,Ambivalent,General
+7460,1,Clear Reply,Explicit
+7470,4,Clear Reply,Explicit
+7471,3,Clear Non-Reply,Clarification
+7472,3,Clear Reply,Explicit
+7473,1,Clear Reply,Explicit
+7476,4,Ambivalent,Deflection
+7477,3,Clear Reply,Explicit
+7481,2,Clear Reply,Explicit
+7484,2,Clear Reply,Explicit
+7485,4,Ambivalent,Partial/half-answer
+7486,3,Ambivalent,Deflection
+7487,3,Ambivalent,Deflection
+7489,0,Clear Non-Reply,Claims ignorance
+7491,4,Ambivalent,General
+7492,3,Clear Reply,Explicit
+7496,1,Clear Non-Reply,Declining to answer
+7498,4,Clear Reply,Explicit
+7501,3,Clear Reply,Explicit
+7503,2,Ambivalent,General
+7515,1,Ambivalent,General
+7516,3,Ambivalent,General
+7519,0,Clear Reply,Explicit
+7524,0,Clear Reply,Explicit
+7526,2,Clear Reply,Explicit
+7528,1,Clear Reply,Explicit
+7531,4,Clear Reply,Explicit
+7534,2,Clear Non-Reply,Declining to answer
+7536,4,Clear Reply,Explicit
+7537,2,Ambivalent,Dodging
+7538,2,Clear Reply,Explicit
+7539,0,Ambivalent,General
+7546,3,Clear Reply,Explicit
+7548,0,Clear Non-Reply,Clarification
+7549,2,Clear Non-Reply,Clarification
+7550,1,Ambivalent,General
+7551,2,Ambivalent,Dodging
+7552,0,Ambivalent,General
+7553,0,Ambivalent,General
+7556,3,Ambivalent,Dodging
+7557,0,Clear Reply,Explicit
+7559,4,Clear Non-Reply,Declining to answer
+7560,2,Ambivalent,General
+7561,1,Ambivalent,Implicit
+7564,2,Ambivalent,Dodging
+7566,0,Ambivalent,General
+7567,3,Clear Reply,Explicit
+7569,2,Clear Reply,Explicit
+7575,1,Clear Reply,Explicit
+7576,3,Clear Reply,Explicit
+7577,2,Clear Reply,Explicit
+7579,0,Ambivalent,Implicit
+7581,4,Ambivalent,Implicit
+7584,2,Ambivalent,Dodging
+7585,3,Ambivalent,Implicit
+7586,2,Ambivalent,General
+7587,3,Ambivalent,Deflection
+7588,1,Ambivalent,General
+7589,0,Clear Reply,Explicit
+7590,2,Ambivalent,Implicit
+7591,2,Ambivalent,Deflection
+7592,3,Ambivalent,Dodging
+7593,0,Clear Reply,Explicit
+7594,3,Ambivalent,General
+7595,0,Clear Reply,Explicit
+7596,1,Clear Reply,Explicit
+7597,3,Ambivalent,Partial/half-answer
+7599,1,Ambivalent,Implicit
+7601,1,Clear Reply,Explicit
+7602,0,Clear Non-Reply,Clarification
+7603,3,Clear Reply,Explicit
+7605,0,Clear Reply,Explicit
+7607,3,Ambivalent,General
+7611,1,Ambivalent,General
+7613,2,Clear Reply,Explicit
+7616,4,Ambivalent,Dodging
+7618,2,Ambivalent,Dodging
+7619,4,Clear Non-Reply,Declining to answer
+7620,0,Clear Reply,Explicit
+7623,2,Ambivalent,Dodging
+7629,1,Ambivalent,Dodging
+7631,4,Clear Non-Reply,Declining to answer
+7632,1,Clear Non-Reply,Clarification
+7633,4,Ambivalent,General
+7635,0,Ambivalent,Dodging
+7637,1,Clear Reply,Explicit
+7638,4,Clear Reply,Explicit
+7639,3,Clear Non-Reply,Clarification
+7641,0,Ambivalent,Implicit
+7645,3,Ambivalent,Dodging
+7646,3,Clear Reply,Explicit
+7649,4,Clear Reply,Explicit
+7651,1,Ambivalent,Deflection
+7653,2,Ambivalent,Implicit
+7655,1,Clear Non-Reply,Claims ignorance
+7657,1,Ambivalent,Deflection
+7659,4,Ambivalent,Deflection
+7660,0,Ambivalent,Deflection
+7661,2,Clear Reply,Explicit
+7663,4,Ambivalent,General
+7668,3,Clear Reply,Explicit
+7670,4,Ambivalent,General
+7674,0,Ambivalent,Deflection
+7676,4,Clear Reply,Explicit
+7677,3,Ambivalent,Dodging
+7679,0,Ambivalent,Dodging
+7680,1,Clear Reply,Explicit
+7684,4,Clear Reply,Explicit
+7687,1,Clear Reply,Explicit
+7691,3,Ambivalent,Implicit
+7692,2,Clear Reply,Explicit
+7693,4,Ambivalent,Deflection
