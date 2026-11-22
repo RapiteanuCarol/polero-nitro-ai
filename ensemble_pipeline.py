@@ -18,66 +18,53 @@ def safe_log_loss(y_true, probs):
     return log_loss(y_true, p)
 
 
-def fast_macro_f1(y_true, y_pred, n_cls):
-    total = 0.0
-    for c in range(n_cls):
-        tp = np.sum((y_true == c) & (y_pred == c))
-        fp = np.sum((y_true != c) & (y_pred == c))
-        fn = np.sum((y_true == c) & (y_pred != c))
-        denom = 2 * tp + fp + fn
-        if denom > 0:
-            total += (2.0 * tp) / denom
-    return total / n_cls
+def linear_blend(probs_list, weights):
+    blend = sum(w * p for w, p in zip(weights, probs_list))
+    return blend / np.clip(blend.sum(axis=1, keepdims=True), 1e-12, None)
 
 
-def fit_class_multipliers(probs, y_true, n_cls, passes=5):
-    counts = np.bincount(y_true, minlength=n_cls).astype(np.float64)
-    weights = (counts.mean() / np.maximum(counts, 1.0)) ** 0.35
-    scaled = probs * weights
-    candidates = np.geomspace(0.05, 20.0, 61)
-
-    for _ in range(passes):
-        for c in range(n_cls):
-            other_cols = [j for j in range(n_cls) if j != c]
-            other_scaled = scaled[:, other_cols]
-            best_other_idx = np.argmax(other_scaled, axis=1)
-            best_other_cls = np.array(other_cols)[best_other_idx]
-            best_other_val = other_scaled[np.arange(len(y_true)), best_other_idx]
-
-            best_w = weights[c]
-            best_score = fast_macro_f1(y_true, scaled.argmax(axis=1), n_cls)
-
-            for w in candidates:
-                preds = np.where(probs[:, c] * w > best_other_val, c, best_other_cls)
-                score = fast_macro_f1(y_true, preds, n_cls)
-                if score > best_score + 1e-6:
-                    best_score = score
-                    best_w = w
-
-            weights[c] = best_w
-            scaled[:, c] = probs[:, c] * best_w
-
-    return weights
+def geometric_blend(probs_list, weights):
+    log_p = sum(w * np.log(np.clip(p, 1e-7, 1.0)) for w, p in zip(weights, probs_list))
+    log_p -= np.max(log_p, axis=1, keepdims=True)
+    exp_p = np.exp(log_p)
+    return exp_p / np.clip(exp_p.sum(axis=1, keepdims=True), 1e-12, None)
 
 
-def optimize_blend_weights(oof_list, y_true):
+def optimize_blend_weights(oof_list, y_true, mode="linear"):
     n_models = len(oof_list)
     if n_models == 1:
         return np.array([1.0])
 
-    clipped = [np.clip(p, 1e-7, 1.0 - 1e-7) for p in oof_list]
+    blend_fn = linear_blend if mode == "linear" else geometric_blend
 
     def loss_fn(w):
         w = np.array(w)
         w = w / np.sum(w)
-        blend = sum(wi * pi for wi, pi in zip(w, clipped))
-        return safe_log_loss(y_true, blend)
+        return safe_log_loss(y_true, blend_fn(oof_list, w))
 
     init_w = np.ones(n_models) / n_models
     bounds = [(0.0, 1.0)] * n_models
     constraints = {"type": "eq", "fun": lambda w: np.sum(w) - 1.0}
     res = minimize(loss_fn, init_w, method="SLSQP", bounds=bounds, constraints=constraints)
     return res.x / np.sum(res.x)
+
+
+def fit_bayes_prior_alpha(probs, y_true, n_cls):
+    """Un singur parametru scalar alpha (0..0.6) pentru a evita overfitting-ul pe clase rare."""
+    counts = np.bincount(y_true, minlength=n_cls).astype(np.float64)
+    priors = np.maximum(counts / counts.sum(), 1e-6)
+
+    best_alpha = 0.0
+    best_score = f1_score(y_true, probs.argmax(axis=1), average="macro")
+
+    for alpha in np.linspace(0.0, 0.65, 66):
+        adj = probs / (priors ** alpha)
+        score = f1_score(y_true, adj.argmax(axis=1), average="macro")
+        if score > best_score + 1e-6:
+            best_score = score
+            best_alpha = float(alpha)
+
+    return best_alpha, priors
 
 
 def get_alignment_indices(target_ids, id_csv_pattern):
@@ -111,36 +98,27 @@ def discover_models(train_df, test_df, classes, y_all, exclude=None):
             continue
         test_path = f"predictions/test_{name}.npy"
         if not os.path.exists(test_path):
-            print(f"[SKIP] Lipseste {test_path}")
             continue
 
         oof = np.load(oof_path).astype(np.float64)
         test = np.load(test_path).astype(np.float64)
 
         if oof.shape != (n_train, n_classes) or test.shape != (n_test, n_classes):
-            print(f"[SKIP] {name}: dimensiuni invalide OOF={oof.shape}, Test={test.shape}")
             continue
         if np.isnan(oof).any() or np.isnan(test).any():
-            print(f"[SKIP] {name}: contine NaN")
             continue
 
         if name in bianca_models:
             if train_align is not None:
                 oof = oof[train_align]
-                print(f"[INFO] Realiniat randurile OOF pentru {name}")
             if test_align is not None:
                 test = test[test_align]
-                print(f"[INFO] Realiniat randurile Test pentru {name}")
 
         oof = oof / np.clip(oof.sum(axis=1, keepdims=True), 1e-12, None)
         test = test / np.clip(test.sum(axis=1, keepdims=True), 1e-12, None)
 
-        ll_canonical = safe_log_loss(y_all, oof)
-        oof_reordered = oof[:, alpha_to_canonical]
-        ll_alpha = safe_log_loss(y_all, oof_reordered)
-
-        if ll_alpha < ll_canonical - 0.2:
-            oof = oof_reordered
+        if safe_log_loss(y_all, oof[:, alpha_to_canonical]) < safe_log_loss(y_all, oof) - 0.2:
+            oof = oof[:, alpha_to_canonical]
             test = test[:, alpha_to_canonical]
             print(f"[INFO] Reordonat coloanele (alfabetic -> classes_order.txt) pentru {name}")
 
@@ -164,90 +142,124 @@ def main():
     num_clarity = len(clarity_classes)
 
     models = discover_models(train_df, test_df, classes, y_evasion, exclude=[])
-    assert len(models) >= 1, "Nu s-a gasit niciun model valid in predictions/!"
-
-    print("\n=== Modele incluse in Ensemble (Subtask 2 - Evasion) ===")
     names = list(models.keys())
     oof_list = [models[n][0] for n in names]
     test_list = [models[n][1] for n in names]
 
+    print("\n=== Modele incluse in Ensemble (Subtask 2 - Evasion) ===")
     for n, oof_m in zip(names, oof_list):
         raw_f1 = f1_score(y_evasion, oof_m.argmax(axis=1), average="macro")
         ll = safe_log_loss(y_evasion, oof_m)
         print(f"  - {n:<18} | OOF Macro-F1 brut: {raw_f1:.4f} | LogLoss: {ll:.4f}")
 
-    oof_blend = np.zeros_like(oof_list[0])
-    oof_ev_tuned_preds = np.zeros(len(y_evasion), dtype=int)
-    oof_cl_raw_probs = np.zeros((len(y_clarity), num_clarity), dtype=np.float64)
-    oof_cl_tuned_preds = np.zeros(len(y_clarity), dtype=int)
+  
+    results = {}
+    for mode in ["linear", "geometric"]:
+        blend_fn = linear_blend if mode == "linear" else geometric_blend
+        oof_b = np.zeros_like(oof_list[0])
+        oof_adj_b = np.zeros_like(oof_list[0])
+        fold_w, fold_alphas = [], []
 
-    fold_blend_weights = []
-    fold_ev_multipliers = []
-    fold_cl_multipliers = []
+        for f in range(5):
+            trn = folds != f
+            val = folds == f
+            w_f = optimize_blend_weights([p[trn] for p in oof_list], y_evasion[trn], mode=mode)
+            fold_w.append(w_f)
 
-    for f in range(5):
-        trn_mask = folds != f
-        val_mask = folds == f
+            trn_p = blend_fn([p[trn] for p in oof_list], w_f)
+            val_p = blend_fn([p[val] for p in oof_list], w_f)
+            oof_b[val] = val_p
 
-    
-        w_models = optimize_blend_weights([p[trn_mask] for p in oof_list], y_evasion[trn_mask])
-        fold_blend_weights.append(w_models)
+            alpha_f, priors_f = fit_bayes_prior_alpha(trn_p, y_evasion[trn], num_classes)
+            fold_alphas.append(alpha_f)
+            oof_adj_b[val] = val_p / (priors_f ** alpha_f)
 
-        trn_blend = sum(wi * pi[trn_mask] for wi, pi in zip(w_models, oof_list))
-        val_blend = sum(wi * pi[val_mask] for wi, pi in zip(w_models, oof_list))
-        oof_blend[val_mask] = val_blend
+        mean_w = np.mean(np.vstack(fold_w), axis=0)
+        mean_w /= mean_w.sum()
+        mean_alpha = float(np.mean(fold_alphas))
 
-       
-        w_ev = fit_class_multipliers(trn_blend, y_evasion[trn_mask], num_classes)
-        fold_ev_multipliers.append(w_ev)
-        oof_ev_tuned_preds[val_mask] = (val_blend * w_ev).argmax(axis=1)
+        f1_raw = f1_score(y_evasion, oof_b.argmax(axis=1), average="macro")
+        f1_adj = f1_score(y_evasion, oof_adj_b.argmax(axis=1), average="macro")
+        results[mode] = {
+            "weights": mean_w,
+            "alpha": mean_alpha,
+            "oof_raw": oof_b,
+            "oof_adj": oof_adj_b,
+            "f1_raw": f1_raw,
+            "f1_adj": f1_adj,
+        }
+        print(f"\n[{mode.upper()} BLEND] LogLoss={safe_log_loss(y_evasion, oof_b):.4f} | F1 brut={f1_raw:.4f} | F1 Bayes(alpha={mean_alpha:.2f})={f1_adj:.4f}")
 
-      
-        proj_mat = np.zeros((num_classes, num_clarity), dtype=np.float64)
-        for ev_idx in range(num_classes):
-            sub_cl = y_clarity[trn_mask & (y_evasion == ev_idx)]
-            if len(sub_cl) > 0:
-                proj_mat[ev_idx] = np.bincount(sub_cl, minlength=num_clarity) / len(sub_cl)
+   
+    best_mode = max(results.keys(), key=lambda m: max(results[m]["f1_raw"], results[m]["f1_adj"]))
+    best_res = results[best_mode]
+    use_bayes_s2 = best_res["f1_adj"] > best_res["f1_raw"]
+    s2_final_f1 = best_res["f1_adj"] if use_bayes_s2 else best_res["f1_raw"]
+    oof_best_probs = best_res["oof_raw"]
 
-        trn_cl_probs = trn_blend @ proj_mat
-        val_cl_probs = val_blend @ proj_mat
-        oof_cl_raw_probs[val_mask] = val_cl_probs
-
-        w_cl = fit_class_multipliers(trn_cl_probs, y_clarity[trn_mask], num_clarity)
-        fold_cl_multipliers.append(w_cl)
-        oof_cl_tuned_preds[val_mask] = (val_cl_probs * w_cl).argmax(axis=1)
-
-    mean_model_weights = np.mean(np.vstack(fold_blend_weights), axis=0)
-    mean_model_weights /= np.sum(mean_model_weights)
-
-    print("\n=== Ponderi optime pe modele ===")
-    for n, w in zip(names, mean_model_weights):
+    print(f"\n>>> Selectat pentru Subtask 2: {best_mode.upper()} + {'Bayes(alpha=' + str(round(best_res['alpha'], 2)) + ')' if use_bayes_s2 else 'argmax'}")
+    print("=== Ponderi optime pe modele ===")
+    for n, w in zip(names, best_res["weights"]):
         print(f"  - {n:<18}: {w:.4f}")
 
-    s2_raw = f1_score(y_evasion, oof_blend.argmax(axis=1), average="macro")
-    s2_tuned = f1_score(y_evasion, oof_ev_tuned_preds, average="macro")
-    s1_raw = f1_score(y_clarity, oof_cl_raw_probs.argmax(axis=1), average="macro")
-    s1_tuned = f1_score(y_clarity, oof_cl_tuned_preds, average="macro")
+   
+    oof_cl_raw = np.zeros((len(y_clarity), num_clarity), dtype=np.float64)
+    oof_cl_adj = np.zeros((len(y_clarity), num_clarity), dtype=np.float64)
+    cl_alphas = []
 
-    print(f"\n[Subtask 2 - Evasion] OOF Macro-F1 brut: {s2_raw:.4f} -> calibrat: {s2_tuned:.4f}")
-    print(f"[Subtask 1 - Clarity] OOF Macro-F1 brut: {s1_raw:.4f} -> calibrat: {s1_tuned:.4f}")
-    print(f"Media OOF Macro-F1 (Subtask 1 + 2)      : {(s1_tuned + s2_tuned) / 2.0:.4f}")
+    for f in range(5):
+        trn = folds != f
+        val = folds == f
+        proj = np.zeros((num_classes, num_clarity), dtype=np.float64)
+        for ev_idx in range(num_classes):
+            sub_cl = y_clarity[trn & (y_evasion == ev_idx)]
+            if len(sub_cl) > 0:
+                proj[ev_idx] = np.bincount(sub_cl, minlength=num_clarity) / len(sub_cl)
 
-    test_blend = sum(wi * pi for wi, pi in zip(mean_model_weights, test_list))
-    mean_ev_mult = np.exp(np.mean(np.log(np.vstack(fold_ev_multipliers)), axis=0))
-    test_ev_idx = (test_blend * mean_ev_mult).argmax(axis=1)
-    evasion_preds = [classes[i] for i in test_ev_idx]
+        trn_cl = oof_best_probs[trn] @ proj
+        val_cl = oof_best_probs[val] @ proj
+        oof_cl_raw[val] = val_cl
 
-    full_proj_mat = np.zeros((num_classes, num_clarity), dtype=np.float64)
+        alpha_cl, priors_cl = fit_bayes_prior_alpha(trn_cl, y_clarity[trn], num_clarity)
+        cl_alphas.append(alpha_cl)
+        oof_cl_adj[val] = val_cl / (priors_cl ** alpha_cl)
+
+    s1_f1_raw = f1_score(y_clarity, oof_cl_raw.argmax(axis=1), average="macro")
+    s1_f1_adj = f1_score(y_clarity, oof_cl_adj.argmax(axis=1), average="macro")
+    use_bayes_s1 = s1_f1_adj > s1_f1_raw
+    s1_final_f1 = s1_f1_adj if use_bayes_s1 else s1_f1_raw
+    mean_cl_alpha = float(np.mean(cl_alphas))
+
+    print(f"\n[Subtask 2 - Evasion] OOF Macro-F1 final: {s2_final_f1:.4f}")
+    print(f"[Subtask 1 - Clarity] OOF Macro-F1 final: {s1_final_f1:.4f} (alpha={mean_cl_alpha:.2f}, Bayes={use_bayes_s1})")
+    print(f"Media OOF Macro-F1 (Subtask 1 + 2)      : {(s1_final_f1 + s2_final_f1) / 2.0:.4f}")
+
+  
+    blend_fn = linear_blend if best_mode == "linear" else geometric_blend
+    test_blend = blend_fn(test_list, best_res["weights"])
+
+    if use_bayes_s2:
+        counts_ev = np.bincount(y_evasion, minlength=num_classes).astype(np.float64)
+        priors_ev = np.maximum(counts_ev / counts_ev.sum(), 1e-6)
+        test_ev_scores = test_blend / (priors_ev ** best_res["alpha"])
+    else:
+        test_ev_scores = test_blend
+    evasion_preds = [classes[i] for i in test_ev_scores.argmax(axis=1)]
+
+    full_proj = np.zeros((num_classes, num_clarity), dtype=np.float64)
     for ev_idx in range(num_classes):
         sub_cl = y_clarity[y_evasion == ev_idx]
         if len(sub_cl) > 0:
-            full_proj_mat[ev_idx] = np.bincount(sub_cl, minlength=num_clarity) / len(sub_cl)
+            full_proj[ev_idx] = np.bincount(sub_cl, minlength=num_clarity) / len(sub_cl)
 
-    test_cl_probs = test_blend @ full_proj_mat
-    mean_cl_mult = np.exp(np.mean(np.log(np.vstack(fold_cl_multipliers)), axis=0))
-    test_cl_idx = (test_cl_probs * mean_cl_mult).argmax(axis=1)
-    clarity_preds = [clarity_classes[i] for i in test_cl_idx]
+    test_cl_probs = test_blend @ full_proj
+    if use_bayes_s1:
+        counts_cl = np.bincount(y_clarity, minlength=num_clarity).astype(np.float64)
+        priors_cl = np.maximum(counts_cl / counts_cl.sum(), 1e-6)
+        test_cl_scores = test_cl_probs / (priors_cl ** mean_cl_alpha)
+    else:
+        test_cl_scores = test_cl_probs
+    clarity_preds = [clarity_classes[i] for i in test_cl_scores.argmax(axis=1)]
 
     id_to_evasion = dict(zip(test_df["datapointID"], evasion_preds))
     id_to_clarity = dict(zip(test_df["datapointID"], clarity_preds))
@@ -268,6 +280,9 @@ def main():
     out_path = "submissions/submission_ensemble.csv"
     sub.to_csv(out_path, index=False)
     print(f"\nSalvat {out_path} -> shape: {sub.shape}")
+    for st, grp in sub.groupby("subtaskID"):
+        print(f"\nDistributie test subtaskID={st}:")
+        print(grp["answer"].value_counts())
 
 
 if __name__ == "__main__":
