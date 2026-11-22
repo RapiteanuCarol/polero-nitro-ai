@@ -1,37 +1,37 @@
 subtaskID,datapointID,answer
-1,18,Clear Reply
+1,18,Ambivalent
 1,23,Clear Reply
-1,63,Clear Reply
+1,63,Ambivalent
 1,72,Clear Reply
 1,89,Clear Reply
 1,91,Clear Reply
 1,213,Clear Reply
 1,226,Clear Reply
 1,267,Clear Reply
-1,299,Ambivalent
+1,299,Clear Reply
 1,332,Clear Reply
 1,366,Clear Reply
 1,370,Clear Reply
 1,386,Clear Reply
 1,411,Clear Reply
-1,415,Ambivalent
-1,449,Clear Reply
+1,415,Clear Reply
+1,449,Ambivalent
 1,454,Clear Reply
 1,465,Clear Reply
 1,488,Clear Reply
-1,545,Ambivalent
+1,545,Clear Reply
 1,550,Clear Reply
-1,608,Clear Reply
-1,610,Ambivalent
+1,608,Clear Non-Reply
+1,610,Clear Reply
 1,687,Ambivalent
 1,701,Clear Reply
 1,702,Clear Reply
 1,718,Ambivalent
 1,733,Clear Reply
-1,742,Ambivalent
+1,742,Clear Reply
 1,748,Clear Non-Reply
 1,752,Clear Reply
-1,770,Clear Reply
+1,770,Ambivalent
 1,797,Clear Reply
 1,822,Clear Reply
 1,847,Clear Reply
@@ -49,21 +49,21 @@ subtaskID,datapointID,answer
 1,1164,Clear Reply
 1,1186,Clear Non-Reply
 1,1196,Clear Reply
-1,1202,Clear Reply
+1,1202,Ambivalent
 1,1212,Ambivalent
 1,1253,Clear Reply
 1,1268,Clear Reply
-1,1311,Clear Reply
+1,1311,Ambivalent
 1,1336,Ambivalent
 1,1404,Ambivalent
 1,1425,Clear Reply
-1,1442,Clear Non-Reply
+1,1442,Clear Reply
 1,1491,Clear Reply
 1,1503,Clear Reply
-1,1576,Clear Reply
-1,1578,Clear Reply
+1,1576,Ambivalent
+1,1578,Ambivalent
 1,1629,Ambivalent
-1,1631,Ambivalent
+1,1631,Clear Reply
 1,1721,Clear Reply
 1,1724,Clear Reply
 1,1733,Ambivalent
@@ -72,7 +72,7 @@ subtaskID,datapointID,answer
 1,1786,Clear Reply
 1,1797,Clear Reply
 1,1822,Clear Reply
-1,1922,Ambivalent
+1,1922,Clear Reply
 1,2004,Clear Reply
 1,2086,Clear Reply
 1,2095,Clear Reply
@@ -81,26 +81,26 @@ subtaskID,datapointID,answer
 1,2160,Clear Reply
 1,2391,Ambivalent
 1,2496,Clear Reply
-1,2563,Ambivalent
+1,2563,Clear Reply
 1,2621,Clear Reply
 1,2623,Clear Reply
-1,2718,Ambivalent
+1,2718,Clear Reply
 1,2753,Clear Reply
-1,2755,Clear Reply
+1,2755,Ambivalent
 1,2773,Clear Reply
-1,2782,Clear Reply
+1,2782,Ambivalent
 1,2808,Ambivalent
 1,2859,Clear Reply
 1,2926,Clear Reply
 1,2968,Clear Reply
-1,3019,Ambivalent
+1,3019,Clear Reply
 1,3022,Clear Reply
 1,3044,Clear Reply
 1,3055,Ambivalent
 1,3089,Ambivalent
 1,3105,Ambivalent
 1,3168,Clear Reply
-1,3196,Ambivalent
+1,3196,Clear Reply
 1,3239,Clear Reply
 1,3256,Clear Reply
 1,3262,Clear Reply
@@ -114,14 +114,14 @@ subtaskID,datapointID,answer
 1,3522,Ambivalent
 1,3533,Clear Reply
 1,3548,Clear Reply
-1,3560,Clear Reply
-1,3565,Clear Reply
+1,3560,Ambivalent
+1,3565,Ambivalent
 1,3567,Clear Reply
 1,3570,Clear Reply
 1,3601,Clear Reply
 1,3609,Clear Reply
-1,3643,Clear Reply
-1,3650,Clear Reply
+1,3643,Clear Non-Reply
+1,3650,Ambivalent
 1,3655,Clear Reply
 1,3663,Clear Reply
 1,3665,Clear Reply
@@ -130,15 +130,15 @@ subtaskID,datapointID,answer
 1,3739,Clear Reply
 1,3741,Clear Reply
 1,3764,Clear Reply
-1,3793,Ambivalent
+1,3793,Clear Reply
 1,3796,Clear Reply
 1,3813,Clear Non-Reply
-1,3842,Clear Reply
+1,3842,Ambivalent
 1,3863,Clear Reply
 1,3905,Clear Reply
 1,3937,Clear Reply
 1,3943,Ambivalent
-1,3947,Clear Reply
+1,3947,Ambivalent
 1,3953,Clear Reply
 1,3959,Clear Reply
 1,3965,Clear Reply
@@ -151,7 +151,7 @@ subtaskID,datapointID,answer
 1,4358,Clear Reply
 1,4461,Clear Reply
 1,4520,Clear Reply
-1,4542,Ambivalent
+1,4542,Clear Reply
 1,4585,Ambivalent
 1,4643,Clear Reply
 1,4697,Clear Reply
@@ -160,14 +160,14 @@ subtaskID,datapointID,answer
 1,4773,Clear Reply
 1,4827,Ambivalent
 1,4891,Ambivalent
-1,4942,Clear Reply
-1,4951,Ambivalent
+1,4942,Ambivalent
+1,4951,Clear Reply
 1,4956,Ambivalent
 1,4966,Clear Reply
 1,4967,Ambivalent
 1,4997,Clear Non-Reply
 1,5049,Ambivalent
-1,5081,Ambivalent
+1,5081,Clear Reply
 1,5093,Ambivalent
 1,5101,Clear Reply
 1,5178,Clear Reply
@@ -181,11 +181,11 @@ subtaskID,datapointID,answer
 1,5305,Ambivalent
 1,5359,Clear Non-Reply
 1,5378,Clear Non-Reply
-1,5379,Clear Non-Reply
+1,5379,Ambivalent
 1,5408,Clear Reply
 1,5441,Clear Reply
-1,5501,Ambivalent
-1,5504,Ambivalent
+1,5501,Clear Reply
+1,5504,Clear Non-Reply
 1,5507,Ambivalent
 1,5519,Clear Reply
 1,5530,Ambivalent
@@ -193,12 +193,12 @@ subtaskID,datapointID,answer
 1,5558,Clear Reply
 1,5565,Ambivalent
 1,5585,Ambivalent
-1,5599,Ambivalent
+1,5599,Clear Reply
 1,5608,Ambivalent
 1,5610,Clear Reply
 1,5643,Clear Reply
 1,5678,Clear Reply
-1,5683,Clear Reply
+1,5683,Ambivalent
 1,5736,Clear Reply
 1,5757,Clear Reply
 1,5813,Ambivalent
@@ -207,76 +207,76 @@ subtaskID,datapointID,answer
 1,5864,Ambivalent
 1,5871,Ambivalent
 1,5883,Ambivalent
-1,5900,Clear Reply
+1,5900,Ambivalent
 1,5910,Ambivalent
 1,5932,Ambivalent
-1,5942,Ambivalent
+1,5942,Clear Reply
 1,5966,Ambivalent
-1,5990,Clear Reply
+1,5990,Ambivalent
 1,5991,Clear Reply
-1,6005,Ambivalent
+1,6005,Clear Reply
 1,6013,Clear Reply
-1,6028,Clear Reply
+1,6028,Ambivalent
 1,6076,Ambivalent
-1,6127,Clear Reply
+1,6127,Ambivalent
 1,6142,Ambivalent
-1,6143,Ambivalent
-1,6153,Ambivalent
+1,6143,Clear Reply
+1,6153,Clear Non-Reply
 1,6155,Clear Reply
 1,6167,Ambivalent
 1,6178,Ambivalent
-1,6182,Clear Non-Reply
-1,6195,Ambivalent
-1,6238,Clear Non-Reply
+1,6182,Ambivalent
+1,6195,Clear Non-Reply
+1,6238,Ambivalent
 1,6276,Ambivalent
 1,6292,Clear Reply
 1,6324,Clear Reply
 1,6365,Ambivalent
 1,6374,Clear Reply
 1,6375,Ambivalent
-1,6419,Ambivalent
-1,6432,Ambivalent
+1,6419,Clear Reply
+1,6432,Clear Non-Reply
 1,6567,Ambivalent
 1,6576,Ambivalent
 1,6643,Ambivalent
-1,6645,Clear Reply
+1,6645,Ambivalent
 1,6652,Ambivalent
 1,6678,Ambivalent
 1,6684,Ambivalent
 1,6718,Ambivalent
 1,6727,Ambivalent
-1,6755,Clear Reply
+1,6755,Ambivalent
 1,6762,Ambivalent
 1,6773,Ambivalent
-1,6784,Ambivalent
-1,6795,Ambivalent
+1,6784,Clear Reply
+1,6795,Clear Reply
 1,6800,Clear Reply
 1,6812,Ambivalent
 1,6875,Clear Reply
 1,6901,Ambivalent
-1,6912,Ambivalent
+1,6912,Clear Non-Reply
 1,6933,Ambivalent
 1,6952,Ambivalent
 1,6980,Ambivalent
 1,6992,Ambivalent
-1,6999,Ambivalent
+1,6999,Clear Non-Reply
 1,7006,Ambivalent
 1,7015,Ambivalent
 1,7016,Ambivalent
-1,7039,Clear Reply
+1,7039,Ambivalent
 1,7049,Ambivalent
 1,7076,Clear Reply
 1,7082,Ambivalent
-1,7094,Clear Reply
-1,7154,Ambivalent
+1,7094,Ambivalent
+1,7154,Clear Reply
 1,7202,Ambivalent
-1,7208,Ambivalent
+1,7208,Clear Reply
 1,7220,Clear Reply
-1,7248,Clear Reply
+1,7248,Ambivalent
 1,7272,Clear Reply
 1,7276,Ambivalent
 1,7312,Clear Non-Reply
-1,7325,Clear Reply
+1,7325,Ambivalent
 1,7328,Ambivalent
 1,7357,Clear Reply
 1,7365,Clear Reply
@@ -284,50 +284,50 @@ subtaskID,datapointID,answer
 1,7390,Ambivalent
 1,7407,Ambivalent
 1,7422,Clear Reply
-1,7500,Ambivalent
-1,7506,Clear Reply
-1,7535,Clear Reply
+1,7500,Clear Reply
+1,7506,Ambivalent
+1,7535,Ambivalent
 1,7572,Clear Non-Reply
-1,7612,Clear Reply
-1,7622,Ambivalent
+1,7612,Ambivalent
+1,7622,Clear Reply
 1,7678,Ambivalent
 1,3617,Ambivalent
-1,4444,Clear Reply
-1,5937,Clear Reply
+1,4444,Ambivalent
+1,5937,Ambivalent
 1,7545,Ambivalent
 2,18,Explicit
 2,23,Explicit
-2,63,Explicit
+2,63,General
 2,72,Explicit
 2,89,Explicit
 2,91,Explicit
 2,213,Explicit
 2,226,Explicit
 2,267,Explicit
-2,299,Implicit
+2,299,Explicit
 2,332,Explicit
 2,366,Explicit
 2,370,Explicit
 2,386,Explicit
 2,411,Explicit
-2,415,Dodging
-2,449,Explicit
+2,415,Explicit
+2,449,General
 2,454,Explicit
 2,465,Explicit
 2,488,Explicit
-2,545,Dodging
+2,545,Explicit
 2,550,Explicit
-2,608,Explicit
-2,610,General
+2,608,Claims ignorance
+2,610,Explicit
 2,687,General
 2,701,Explicit
 2,702,Explicit
 2,718,Dodging
 2,733,Explicit
-2,742,Dodging
+2,742,Explicit
 2,748,Clarification
 2,752,Explicit
-2,770,Explicit
+2,770,General
 2,797,Explicit
 2,822,Explicit
 2,847,Explicit
@@ -343,33 +343,33 @@ subtaskID,datapointID,answer
 2,1100,Explicit
 2,1126,Explicit
 2,1164,Explicit
-2,1186,Claims ignorance
+2,1186,Declining to answer
 2,1196,Explicit
-2,1202,Explicit
+2,1202,General
 2,1212,Dodging
 2,1253,Explicit
 2,1268,Explicit
-2,1311,Explicit
+2,1311,General
 2,1336,Dodging
 2,1404,Dodging
 2,1425,Explicit
-2,1442,Claims ignorance
+2,1442,Explicit
 2,1491,Explicit
 2,1503,Explicit
-2,1576,Explicit
-2,1578,Explicit
+2,1576,Dodging
+2,1578,Implicit
 2,1629,Dodging
-2,1631,Dodging
+2,1631,Explicit
 2,1721,Explicit
 2,1724,Explicit
-2,1733,Dodging
+2,1733,Explicit
 2,1737,Explicit
 2,1776,Explicit
 2,1786,Explicit
 2,1797,Explicit
 2,1822,Explicit
-2,1922,Dodging
-2,2004,Explicit
+2,1922,Explicit
+2,2004,Dodging
 2,2086,Explicit
 2,2095,Explicit
 2,2121,Explicit
@@ -377,64 +377,64 @@ subtaskID,datapointID,answer
 2,2160,Explicit
 2,2391,Dodging
 2,2496,Explicit
-2,2563,Dodging
+2,2563,Explicit
 2,2621,Explicit
 2,2623,Explicit
-2,2718,Dodging
+2,2718,Explicit
 2,2753,Explicit
-2,2755,Explicit
+2,2755,Implicit
 2,2773,Explicit
-2,2782,Explicit
+2,2782,General
 2,2808,Dodging
 2,2859,Explicit
 2,2926,Explicit
 2,2968,Explicit
-2,3019,Dodging
+2,3019,Explicit
 2,3022,Explicit
 2,3044,Explicit
 2,3055,General
 2,3089,Dodging
-2,3105,Dodging
+2,3105,General
 2,3168,Explicit
 2,3196,Dodging
 2,3239,Explicit
 2,3256,Explicit
 2,3262,Explicit
-2,3309,Dodging
+2,3309,Explicit
 2,3333,Explicit
 2,3349,Explicit
 2,3444,Explicit
 2,3455,Dodging
 2,3475,Dodging
 2,3481,Explicit
-2,3522,Implicit
+2,3522,General
 2,3533,Explicit
 2,3548,Explicit
-2,3560,Explicit
-2,3565,Explicit
+2,3560,General
+2,3565,General
 2,3567,Explicit
 2,3570,Explicit
 2,3601,Explicit
 2,3609,Explicit
-2,3643,Explicit
+2,3643,Declining to answer
 2,3650,Explicit
 2,3655,Explicit
 2,3663,Explicit
 2,3665,Explicit
 2,3667,Explicit
-2,3731,Dodging
+2,3731,General
 2,3739,Explicit
 2,3741,Explicit
 2,3764,Explicit
-2,3793,General
+2,3793,Explicit
 2,3796,Explicit
 2,3813,Clarification
-2,3842,Explicit
+2,3842,General
 2,3863,Explicit
 2,3905,Explicit
 2,3937,Explicit
 2,3943,Dodging
-2,3947,Explicit
+2,3947,Implicit
 2,3953,Explicit
 2,3959,Explicit
 2,3965,Explicit
@@ -447,50 +447,50 @@ subtaskID,datapointID,answer
 2,4358,Explicit
 2,4461,Explicit
 2,4520,Explicit
-2,4542,Implicit
-2,4585,Implicit
+2,4542,Explicit
+2,4585,Explicit
 2,4643,Explicit
 2,4697,Explicit
 2,4737,Declining to answer
 2,4770,Dodging
 2,4773,Explicit
-2,4827,Implicit
+2,4827,General
 2,4891,Implicit
-2,4942,Explicit
-2,4951,Deflection
+2,4942,General
+2,4951,Explicit
 2,4956,Implicit
 2,4966,Explicit
-2,4967,Implicit
+2,4967,Deflection
 2,4997,Declining to answer
 2,5049,Dodging
-2,5081,Dodging
+2,5081,Explicit
 2,5093,Dodging
 2,5101,Explicit
 2,5178,Explicit
-2,5182,General
+2,5182,Explicit
 2,5206,Explicit
-2,5227,Implicit
+2,5227,Explicit
 2,5234,Dodging
 2,5244,Declining to answer
 2,5247,Declining to answer
-2,5275,Implicit
+2,5275,General
 2,5305,Dodging
 2,5359,Declining to answer
 2,5378,Declining to answer
-2,5379,Declining to answer
+2,5379,Dodging
 2,5408,Explicit
 2,5441,Explicit
-2,5501,Implicit
-2,5504,Dodging
-2,5507,Implicit
+2,5501,Explicit
+2,5504,Declining to answer
+2,5507,General
 2,5519,Explicit
-2,5530,Implicit
+2,5530,General
 2,5538,Declining to answer
 2,5558,Explicit
 2,5565,Implicit
 2,5585,Implicit
-2,5599,Implicit
-2,5608,Implicit
+2,5599,Explicit
+2,5608,Dodging
 2,5610,Explicit
 2,5643,Explicit
 2,5678,Explicit
@@ -501,93 +501,93 @@ subtaskID,datapointID,answer
 2,5833,Explicit
 2,5853,Deflection
 2,5864,Implicit
-2,5871,Implicit
-2,5883,Dodging
-2,5900,Explicit
-2,5910,Implicit
-2,5932,Deflection
-2,5942,General
-2,5966,Deflection
-2,5990,Explicit
+2,5871,General
+2,5883,Implicit
+2,5900,Implicit
+2,5910,General
+2,5932,General
+2,5942,Explicit
+2,5966,General
+2,5990,General
 2,5991,Explicit
-2,6005,Deflection
+2,6005,Explicit
 2,6013,Explicit
 2,6028,Explicit
-2,6076,Implicit
-2,6127,Explicit
+2,6076,General
+2,6127,General
 2,6142,General
-2,6143,Deflection
-2,6153,Implicit
+2,6143,Explicit
+2,6153,Dodging
 2,6155,Explicit
-2,6167,Deflection
-2,6178,Implicit
-2,6182,Declining to answer
-2,6195,Deflection
-2,6238,Declining to answer
-2,6276,Implicit
+2,6167,Explicit
+2,6178,Deflection
+2,6182,Dodging
+2,6195,Claims ignorance
+2,6238,Dodging
+2,6276,General
 2,6292,Explicit
 2,6324,Explicit
 2,6365,Deflection
 2,6374,Explicit
-2,6375,Implicit
-2,6419,Implicit
-2,6432,Deflection
+2,6375,Explicit
+2,6419,Explicit
+2,6432,Declining to answer
 2,6567,General
-2,6576,Deflection
-2,6643,Implicit
+2,6576,Explicit
+2,6643,Deflection
 2,6645,Explicit
 2,6652,Dodging
-2,6678,Deflection
+2,6678,Declining to answer
 2,6684,Implicit
-2,6718,Deflection
+2,6718,General
 2,6727,General
-2,6755,Explicit
-2,6762,Implicit
-2,6773,General
-2,6784,Implicit
-2,6795,Implicit
+2,6755,Implicit
+2,6762,Explicit
+2,6773,Deflection
+2,6784,Explicit
+2,6795,Explicit
 2,6800,Explicit
-2,6812,General
+2,6812,Explicit
 2,6875,Explicit
 2,6901,General
-2,6912,Partial/half-answer
-2,6933,Deflection
-2,6952,General
+2,6912,Declining to answer
+2,6933,General
+2,6952,Deflection
 2,6980,General
-2,6992,Implicit
-2,6999,Deflection
+2,6992,Dodging
+2,6999,Declining to answer
 2,7006,General
 2,7015,General
 2,7016,General
-2,7039,Explicit
+2,7039,General
 2,7049,Implicit
 2,7076,Explicit
-2,7082,Deflection
-2,7094,Explicit
-2,7154,Deflection
+2,7082,General
+2,7094,Implicit
+2,7154,Explicit
 2,7202,General
-2,7208,Dodging
+2,7208,Explicit
 2,7220,Explicit
 2,7248,Explicit
 2,7272,Explicit
-2,7276,Deflection
+2,7276,General
 2,7312,Clarification
-2,7325,Explicit
-2,7328,General
+2,7325,General
+2,7328,Deflection
 2,7357,Explicit
 2,7365,Explicit
 2,7377,Claims ignorance
-2,7390,General
-2,7407,Partial/half-answer
+2,7390,Implicit
+2,7407,Deflection
 2,7422,Explicit
-2,7500,Deflection
-2,7506,Explicit
-2,7535,Explicit
+2,7500,Explicit
+2,7506,General
+2,7535,General
 2,7572,Claims ignorance
-2,7612,Explicit
-2,7622,General
+2,7612,Deflection
+2,7622,Explicit
 2,7678,Dodging
 2,3617,Dodging
 2,4444,Explicit
 2,5937,Explicit
-2,7545,General
+2,7545,Explicit
